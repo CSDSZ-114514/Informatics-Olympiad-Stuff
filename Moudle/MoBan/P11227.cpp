@@ -1,0 +1,107 @@
+#include<bits/stdc++.h>
+using namespace std;
+long long d[100],c[100],h[100],s[100],n,ans;
+int main(){
+	cin>>n;
+	for(int i=1;i<=n;i++){
+		string shr;
+		cin>>shr;
+		if(shr[0]=='D'){
+			if(shr[1]=='T'){
+				d[10]++;
+			}else
+			if(shr[1]=='J'){
+				d[11]++;
+			}else
+			if(shr[1]=='Q'){
+				d[12]++;
+			}else
+			if(shr[1]=='K'){
+				d[13]++;
+			}else
+			if(shr[1]=='A'){
+				d[1]++;
+			}else{
+				d[shr[1]-'0']++;
+			}
+		}
+		if(shr[0]=='S'){
+			if(shr[1]=='T'){
+				s[10]++;
+			}else
+				if(shr[1]=='J'){
+					s[11]++;
+				}else
+					if(shr[1]=='Q'){
+						s[12]++;
+					}else
+						if(shr[1]=='K'){
+							s[13]++;
+						}else
+							if(shr[1]=='A'){
+								s[1]++;
+							}else{
+								s[shr[1]-'0']++;
+							}
+		}
+		if(shr[0]=='C'){
+			if(shr[1]=='T'){
+				c[10]++;
+			}else
+				if(shr[1]=='J'){
+					c[11]++;
+				}else
+					if(shr[1]=='Q'){
+						c[12]++;
+					}else
+						if(shr[1]=='K'){
+							c[13]++;
+						}else
+							if(shr[1]=='A'){
+								c[1]++;
+							}else{
+								c[shr[1]-'0']++;
+							}
+		}
+		if(shr[0]=='H'){
+			if(shr[1]=='T'){
+				h[10]++;
+			}else
+				if(shr[1]=='J'){
+					h[11]++;
+				}else
+					if(shr[1]=='Q'){
+						h[12]++;
+					}else
+						if(shr[1]=='K'){
+							h[13]++;
+						}else
+							if(shr[1]=='A'){
+								h[1]++;
+							}else{
+								h[shr[1]-'0']++;
+							}
+		}
+	}
+	for(int i=1;i<=13;i++){
+		if(h[i]==0){
+			ans++;
+		}
+	}
+	for(int i=1;i<=13;i++){
+		if(s[i]==0){
+			ans++;
+		}
+	}
+	for(int i=1;i<=13;i++){
+		if(c[i]==0){
+			ans++;
+		}
+	}
+	for(int i=1;i<=13;i++){
+		if(d[i]==0){
+			ans++;
+		}
+	}
+	cout<<ans;
+}

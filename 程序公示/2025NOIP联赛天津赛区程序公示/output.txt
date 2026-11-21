@@ -1,0 +1,1671 @@
+目录: ./answers\TJ-0001
+    目录: ./answers\TJ-0001\candy
+        文件: candy.cpp (大小: 535 字节, MD5: 20c1575f663860b9da65e05572b321a9)
+    目录: ./answers\TJ-0001\query
+        文件: query.cpp (大小: 1876 字节, MD5: 7476a29b5f09f56b210a2674512e021e)
+    目录: ./answers\TJ-0001\sale
+        文件: sale.cpp (大小: 1971 字节, MD5: f89634e2b4152b825afa97fbfbcff485)
+    目录: ./answers\TJ-0001\tree
+        文件: tree.cpp (大小: 1649 字节, MD5: 17e7933ffb28378aa81ebebde9fef55f)
+目录: ./answers\TJ-0002
+    目录: ./answers\TJ-0002\candy
+        文件: candy.cpp (大小: 525 字节, MD5: 8f1125c55f5ddcca60dd5d01f5a3f048)
+    目录: ./answers\TJ-0002\query
+        文件: query.cpp (大小: 789 字节, MD5: b90b8265d3a60bd111236caff7a823a1)
+    目录: ./answers\TJ-0002\sale
+        文件: sale.cpp (大小: 2574 字节, MD5: 6b8131a5db2856aa3590dee6239383a9)
+    目录: ./answers\TJ-0002\tree
+        文件: tree.cpp (大小: 1805 字节, MD5: f5c142db42d0265a08383f970657bbb5)
+目录: ./answers\TJ-0003
+    目录: ./answers\TJ-0003\candy
+        文件: candy.cpp (大小: 460 字节, MD5: 647b473b71a45798c644bf090f6f3c4b)
+    目录: ./answers\TJ-0003\query
+        文件: query.cpp (大小: 1104 字节, MD5: ba59d147e9c497bc1ef253e3785425c3)
+    目录: ./answers\TJ-0003\sale
+        文件: sale.cpp (大小: 2051 字节, MD5: 5afec7a6d38e960f5fbe50700880e296)
+    目录: ./answers\TJ-0003\tree
+        文件: tree.cpp (大小: 1960 字节, MD5: acac4975b6c7e21aaf28128eeef6f49c)
+目录: ./answers\TJ-0004
+    目录: ./answers\TJ-0004\candy
+        文件: candy (大小: 126880 字节, MD5: e65d49f8fb0677c45a82dab03bfa3bc0)
+        文件: candy.cpp (大小: 772 字节, MD5: f9626d77d8f75159b8959dcf84cee8ba)
+        文件: candy.exe (大小: 1927443 字节, MD5: 34002aa47fdfb4b562d002f1073068c0)
+        文件: candy.in (大小: 1978006 字节, MD5: 323f97b94b03256e70c9882f18267281)
+        文件: candy.o (大小: 119136 字节, MD5: 8216c02597a6a78e5f04bcc9d8a92d68)
+        文件: candy.out (大小: 5 字节, MD5: 7b2ffdd9b1fe7a7e59153e3eeefb0cfa)
+        文件: candy1.ans (大小: 2 字节, MD5: 48a24b70a0b376535542b996af517398)
+        文件: candy1.in (大小: 13 字节, MD5: d172161f9b02b40775e04ecefc192ef0)
+        文件: candy2.ans (大小: 2 字节, MD5: c30f7472766d25af1dc80b3ffc9a58c7)
+        文件: candy2.in (大小: 17 字节, MD5: 8d414fdac6b47bbca322f77629b28f1f)
+        文件: candy3.ans (大小: 3 字节, MD5: 4fbafd6948b6529caa2b78e476359875)
+        文件: candy3.in (大小: 592 字节, MD5: e797587a6a703bd133187835d5dc81c9)
+        文件: candy4.ans (大小: 3 字节, MD5: 5b6b41ed9b343fed9cd05a66d36650f0)
+        文件: candy4.in (大小: 588 字节, MD5: 0e65ff338c72c021f95bcdbcb462abd0)
+        文件: candy5.ans (大小: 3 字节, MD5: 90e2a51705594d033a3abe9d77b2b7ad)
+        文件: candy5.in (大小: 9798 字节, MD5: 1a6be53723c813cf60ea61f976e4b333)
+        文件: candy6.ans (大小: 3 字节, MD5: 60f3db995d0676b576372c0ee45b7ac0)
+        文件: candy6.in (大小: 9777 字节, MD5: 124e92de53a7d5b152bad98988299fe7)
+        文件: candy7.ans (大小: 5 字节, MD5: 7b2ffdd9b1fe7a7e59153e3eeefb0cfa)
+        文件: 我该在哪里停留？我问我自己.txt (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0004\query
+        文件: query.cpp (大小: 2416 字节, MD5: b97ee553329fce175e036d9b76bb037e)
+        文件: query.exe (大小: 1922280 字节, MD5: 09838849210c2184530ec9e445483b50)
+        文件: query.out (大小: 845 字节, MD5: 8f2be7927eee66f7249baa65b9ee2e9f)
+        文件: query1.ans (大小: 25 字节, MD5: dc5601099b07416892e13898267d0638)
+        文件: query1.in (大小: 25 字节, MD5: 1d3b17636f23a2cbf32150577b00258c)
+        文件: query2.ans (大小: 630 字节, MD5: 5ad30df6c06c79508d2b032e2c0eed89)
+        文件: query2.in (大小: 13234 字节, MD5: c49a8c4c0a632f1d1b7ea651c1c1fa27)
+        文件: query3.ans (大小: 1897 字节, MD5: 679fe0695759ffc638f463e9951c0687)
+        文件: query3.in (大小: 64755 字节, MD5: c0478674fd4490c27b63558543f11074)
+        文件: query4.ans (大小: 15958 字节, MD5: 8a164707914899d2780f2d6a6e713493)
+        文件: query4.in (大小: 329858 字节, MD5: 52cc67829bde204535aa9361f4154225)
+        文件: query5.ans (大小: 8743 字节, MD5: 4bcf154b32a3b41fd8e4aa7a9dfec6fd)
+        文件: query5.in (大小: 321929 字节, MD5: bf6eb0342eed0bb3214da20973c15c1f)
+        文件: query6.ans (大小: 6656 字节, MD5: a865acfd26cbdb6e9af335f333201f14)
+        文件: query6.in (大小: 323800 字节, MD5: 771a7b564fc74c4257f09a02dbcf3c4f)
+        文件: query7.ans (大小: 13336 字节, MD5: 1d5ec41fa57aab7e8f6f819f72b5efc1)
+        文件: query7.in (大小: 331792 字节, MD5: c400297f2f51411d233fd313c7a9745a)
+        文件: query8.ans (大小: 15627 字节, MD5: 1b5235afcf238f5c25a6080f0be8222d)
+        文件: query8.in (大小: 325965 字节, MD5: 59a8928be1029170e38fece648c6f517)
+    目录: ./answers\TJ-0004\sale
+        文件: #sale.cpp# (大小: 1905 字节, MD5: e622b174c9d7a8e40324ec5a0539e505)
+        文件: sale (大小: 160520 字节, MD5: 55c848f612d07feeb42e268bb5ed2160)
+        文件: sale.cpp (大小: 1943 字节, MD5: 669888fa5c06273947cb02b0ab7201e4)
+        文件: sale.exe (大小: 1925585 字节, MD5: aa034db36df04a42b264558e4a4c8fa3)
+        文件: sale.o (大小: 157848 字节, MD5: 0494fed9b873619210b5a2b8ef6f401c)
+        文件: sale.out (大小: 2047 字节, MD5: cde22352c62e126a4df7b8ad75d75daa)
+        文件: sale1.ans (大小: 2 字节, MD5: 9ae0ea9e3c9c6e1b9b6252c8395efdc1)
+        文件: sale1.in (大小: 14 字节, MD5: 11fba08df93afc1d4d109b71bdb84b31)
+        文件: sale10.ans (大小: 1294 字节, MD5: 7d126fa3d7766736ede9a9b3f5bffd4f)
+        文件: sale10.in (大小: 100192 字节, MD5: d63c097d37e8d7ee4ebf46776f61eaae)
+        文件: sale11.ans (大小: 2047 字节, MD5: cde22352c62e126a4df7b8ad75d75daa)
+        文件: sale11.in (大小: 498186 字节, MD5: f25b9ea1bd1b2ee9d2e19847e758dc3a)
+        文件: sale2.ans (大小: 3000 字节, MD5: 28ad2c962e3cebe063d22d2804db2925)
+        文件: sale2.in (大小: 53473 字节, MD5: 71b11ac0a16057a0aa5d519d20348744)
+        文件: sale3.ans (大小: 2169 字节, MD5: 8eeb59822dced7da521ce22435660a53)
+        文件: sale3.in (大小: 52523 字节, MD5: 23175b73a0d68ed85b4177a10b95006f)
+        文件: sale4.ans (大小: 893 字节, MD5: 064f14cc22477018437529bac643cc34)
+        文件: sale4.in (大小: 50266 字节, MD5: c5796f8c0fc756cd1787023b66a010de)
+        文件: sale5.ans (大小: 831 字节, MD5: 336862afa643d78e4aa795c9d98f324e)
+        文件: sale5.in (大小: 50667 字节, MD5: 96241479985bf3581ed68bd7947cdf72)
+        文件: sale6.ans (大小: 837 字节, MD5: 81d7921fe203e5c389c282ff6784dee7)
+        文件: sale6.in (大小: 50366 字节, MD5: c91aa61e58597ae461584b850a6625ca)
+        文件: sale7.ans (大小: 1290 字节, MD5: b253a360cbab60c41b310f0686c6f485)
+        文件: sale7.in (大小: 100102 字节, MD5: b4b483af46c6dc18877aef8bdb6477e3)
+        文件: sale8.ans (大小: 1295 字节, MD5: e9e5c87d44461ee984d78b654523ac5c)
+        文件: sale8.in (大小: 99594 字节, MD5: ef879ebce23c3c5b45d8c26a126a1280)
+        文件: sale9.ans (大小: 1287 字节, MD5: b925f23b08a7764ed46d439f4e9330c6)
+        文件: sale9.in (大小: 100784 字节, MD5: fe7cb95a375d4e39fdcd4d70810eaf6b)
+    目录: ./answers\TJ-0004\tree
+        文件: tree (大小: 18672 字节, MD5: 5b4a2f6684cf352bb11d18fbd34b9a49)
+        文件: tree.cpp (大小: 995 字节, MD5: 47d0e09842292946a195e68698acd3de)
+        文件: tree.exe (大小: 1927096 字节, MD5: 956092e7ca20bb600d99e7b025797c4d)
+        文件: tree.o (大小: 11376 字节, MD5: 9986724ac04789e820ab7007e4b0d246)
+        文件: tree.out (大小: 68448 字节, MD5: 077f9e4779fe14378a3be8ac782509d3)
+        文件: tree1.ans (大小: 5 字节, MD5: fa10546ac4464ddc33844e0ba294c1ac)
+        文件: tree1.in (大小: 30 字节, MD5: 88f1e7ac5d9b784b7d3f53932830b238)
+        文件: tree1.out (大小: 7 字节, MD5: 20756892d386aa2f289e02534ef21140)
+        文件: tree2.ans (大小: 15 字节, MD5: 777af47c6673efad3fc92e0909c3db44)
+        文件: tree2.in (大小: 158 字节, MD5: d6728106f55142eaefac99bd57da1344)
+        文件: tree3.ans (大小: 20 字节, MD5: bc94d3e5b42e870f75d019093683ea5b)
+        文件: tree3.in (大小: 542 字节, MD5: 8dc19578b0bccd41261037d9c1b9fda4)
+        文件: tree4.ans (大小: 25 字节, MD5: ade17fc1a28f3c82537e1b6feae05904)
+        文件: tree4.in (大小: 72574 字节, MD5: 4d2f848d61743e3c6b2801cbd2b7d272)
+        文件: tree5.ans (大小: 30 字节, MD5: b27dcdc6ce433e6a75ee4068ba1244ba)
+        文件: tree5.in (大小: 93840 字节, MD5: e36833fbc5ce6deb927a87a77e61c6c7)
+目录: ./answers\TJ-0005
+    目录: ./answers\TJ-0005\candy
+        文件: candy.cpp (大小: 2403 字节, MD5: f6323ac0df751fbaa706e63205f7ec58)
+    目录: ./answers\TJ-0005\query
+        文件: query.cpp (大小: 1936 字节, MD5: 8b6f360b1621c7b8be05bb3f33abaf7d)
+    目录: ./answers\TJ-0005\sale
+        文件: sale.cpp (大小: 2464 字节, MD5: 699f72d9b8572d245c965b8dd43573ed)
+    目录: ./answers\TJ-0005\tree
+        文件: tree.cpp (大小: 2157 字节, MD5: e9e349e02e0035de4befdc2497992f01)
+目录: ./answers\TJ-0006
+    目录: ./answers\TJ-0006\candy
+        文件: candy.cpp (大小: 1056 字节, MD5: 95cb26e681d67f2a85acc5c1eb00a1cc)
+    目录: ./answers\TJ-0006\query
+        文件: query.cpp (大小: 1447 字节, MD5: e00e7af6a5bd7cb5d1a772a5a4bdfc74)
+    目录: ./answers\TJ-0006\sale
+        文件: sale.cpp (大小: 2669 字节, MD5: 8e6cc3283a05b0b02296e2e7073d85e4)
+    目录: ./answers\TJ-0006\tree
+        文件: tree.cpp (大小: 1550 字节, MD5: c30b34ea0f67decc2bf64fc25c2f85b9)
+目录: ./answers\TJ-0007
+    目录: ./answers\TJ-0007\candy
+        文件: candy (大小: 25272 字节, MD5: ac69344d3fffabfe756569422ce9dcb5)
+        文件: candy.cpp (大小: 4967 字节, MD5: 8a9d80287a1305f7fce004201cfe3dbb)
+        文件: candy.in (大小: 1978006 字节, MD5: 323f97b94b03256e70c9882f18267281)
+        文件: candy.o (大小: 34712 字节, MD5: 44708beea9c7005d2c3e97cfe3a808a2)
+        文件: candy.out (大小: 4 字节, MD5: 806beafe154032a5b818e97b4420ad98)
+    目录: ./answers\TJ-0007\query
+        文件: query (大小: 22224 字节, MD5: 59065c6e83d6476b9d9356051fbfa760)
+        文件: query.cpp (大小: 5960 字节, MD5: d4a48a69a57fd223543b6ec00d105f59)
+        文件: query.in (大小: 321929 字节, MD5: bf6eb0342eed0bb3214da20973c15c1f)
+        文件: query.o (大小: 15992 字节, MD5: 7dcf06d588316cc36b0e1d7dddb08bbd)
+        文件: query.out (大小: 8743 字节, MD5: 4bcf154b32a3b41fd8e4aa7a9dfec6fd)
+    目录: ./answers\TJ-0007\sale
+        文件: fcs (大小: 17072 字节, MD5: 0b47697761b38130c5f8477e9d9a3202)
+        文件: fcs.cpp (大小: 124 字节, MD5: 87e058cd46213c98b74825a355d5dcfa)
+        文件: fcs.o (大小: 2624 字节, MD5: f7d1a867cf906d614b054e9e5aded8e4)
+        文件: sale (大小: 30184 字节, MD5: 573159b551d029fca06e31ffe90b8973)
+        文件: sale.cpp (大小: 6315 字节, MD5: 7187544a684e0cee804b59298c62c3c6)
+        文件: sale.in (大小: 100102 字节, MD5: b4b483af46c6dc18877aef8bdb6477e3)
+        文件: sale.o (大小: 40432 字节, MD5: 359b24aa14460a2eaa60fd7696f1641e)
+        文件: sale.out (大小: 1290 字节, MD5: b253a360cbab60c41b310f0686c6f485)
+        文件: sale7.ans (大小: 1290 字节, MD5: b253a360cbab60c41b310f0686c6f485)
+    目录: ./answers\TJ-0007\tree
+        文件: tree.cpp (大小: 4667 字节, MD5: 16cbc0dbee633b34387161858237d0fc)
+目录: ./answers\TJ-0008
+    目录: ./answers\TJ-0008\candy
+        文件: candy.cpp (大小: 1275 字节, MD5: 863decac5e21ef2c3731d0c31f3b9e8c)
+    目录: ./answers\TJ-0008\query
+        文件: query.cpp (大小: 829 字节, MD5: 6c0a7049353cafb713328f1b7bb79e52)
+    目录: ./answers\TJ-0008\sale
+        文件: sale.cpp (大小: 2075 字节, MD5: 12a0ba5f5eaff17b658c8560bb057e57)
+    目录: ./answers\TJ-0008\tree
+        文件: tree.cpp (大小: 1063 字节, MD5: 85ed832179e5f7c39e074d54efa385cc)
+目录: ./answers\TJ-0009
+    目录: ./answers\TJ-0009\candy
+        文件: candy.cpp (大小: 515 字节, MD5: 30b5fa21e210a65589bae8bdfa1c0bfa)
+    目录 (无文件): ./answers\TJ-0009\query
+    目录: ./answers\TJ-0009\sale
+        文件: sale.cpp (大小: 981 字节, MD5: 8fbe9fffe24280b2500c0c8620e75a13)
+        文件: sale.exe (大小: 1947643 字节, MD5: 91dbff71aefb2cdeec609c7944483fab)
+    目录: ./answers\TJ-0009\tree
+        文件: tree.cpp (大小: 934 字节, MD5: 4816d9ab2f108715d7efc8963f2caf18)
+        文件: tree.exe (大小: 1952140 字节, MD5: 9c3bbdc4e807754a41e6f0840635f11c)
+目录: ./answers\TJ-0010
+    目录: ./answers\TJ-0010\candy
+        文件: candy.cpp (大小: 845 字节, MD5: 7e5f3d3c6ffca92c6f50d50d20ac9a65)
+        文件: candy.exe (大小: 1944670 字节, MD5: feb72867202bc4673555c2bec8e4bb22)
+        文件: candy.out (大小: 4 字节, MD5: 806beafe154032a5b818e97b4420ad98)
+    目录: ./answers\TJ-0010\query
+        文件: query.cpp (大小: 210 字节, MD5: f626ce3bb21b0eca1560c1bf2de4348d)
+    目录: ./answers\TJ-0010\sale
+        文件: sale.cpp (大小: 1434 字节, MD5: 06ecb24c853c9451b69129ae33e5a647)
+        文件: sale.exe (大小: 1944847 字节, MD5: 37898f5cb207a926bf83e7edd96d2cf6)
+        文件: sale.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0010\tree
+        文件: tree.cpp (大小: 893 字节, MD5: 222c2b661fb9c698395aad65960cc636)
+        文件: tree.exe (大小: 1949097 字节, MD5: 0ed106fd2386a2f26728e0a967eba4ca)
+        文件: tree.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+目录: ./answers\TJ-0011
+    目录: ./answers\TJ-0011\candy
+        文件: candy.cpp (大小: 2731 字节, MD5: 72de7dad8463d0358de012de27668465)
+    目录: ./answers\TJ-0011\query
+        文件: query.cpp (大小: 1828 字节, MD5: 8228df5ba1f8fd3b3d20ea1edf0c366f)
+    目录: ./answers\TJ-0011\sale
+        文件: sale.cpp (大小: 1832 字节, MD5: b46545dbf786194491da07ce38a1809b)
+    目录 (无文件): ./answers\TJ-0011\tree
+目录: ./answers\TJ-0012
+    目录: ./answers\TJ-0012\candy
+        文件: candy.cpp (大小: 1307 字节, MD5: 91bf046cbb95036dc846a9d7a61edae1)
+        文件: candy.exe (大小: 2159209 字节, MD5: dcc1746c0f7571b47854d7e91db56a6d)
+        文件: candy.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0012\query
+        文件: query.cpp (大小: 1844 字节, MD5: d64bf29f3e7acd851b9095d3ff3937ee)
+目录: ./answers\TJ-0013
+    目录: ./answers\TJ-0013\candy
+        文件: candy (大小: 27464 字节, MD5: b8cb9ed24d1c20eb0bc436012483b517)
+        文件: candy.cpp (大小: 1121 字节, MD5: 08be1a46aad7593b4a8f3be2573836fa)
+        文件: candy.exe (大小: 1940396 字节, MD5: c7daf885bb537069a2b8995c08bb8c2e)
+        文件: candy.in (大小: 589 字节, MD5: 006b4796ce458c4fd39d8c14da6b07d7)
+        文件: candy.o (大小: 28864 字节, MD5: 03f8a6d5d2f5cc2f66577b64cc4bfda0)
+        文件: candy.out (大小: 2 字节, MD5: fe9fc289c3ff0af142b6d3bead98a923)
+        文件: candy5.ans (大小: 3 字节, MD5: 90e2a51705594d033a3abe9d77b2b7ad)
+        文件: candy5.in (大小: 9798 字节, MD5: 1a6be53723c813cf60ea61f976e4b333)
+        文件: candy6.ans (大小: 3 字节, MD5: 60f3db995d0676b576372c0ee45b7ac0)
+        文件: candy6.in (大小: 9777 字节, MD5: 124e92de53a7d5b152bad98988299fe7)
+        文件: candy7.ans (大小: 5 字节, MD5: 7b2ffdd9b1fe7a7e59153e3eeefb0cfa)
+        文件: candy7.in (大小: 1978006 字节, MD5: 323f97b94b03256e70c9882f18267281)
+        文件: T1 (大小: 20024 字节, MD5: 3c6689aafdcd1de7dbc90d932d309056)
+        文件: T1.o (大小: 6016 字节, MD5: 1810210116535fd08d32067502cb92a5)
+    目录: ./answers\TJ-0013\query
+        文件: query.cpp (大小: 354 字节, MD5: 5e58a122d3e396177cae38051dc4e5af)
+    目录: ./answers\TJ-0013\sale
+        文件: sale.cpp (大小: 1495 字节, MD5: 7f53b98bdb1c6322e56803c6ef586fd6)
+        文件: sale.exe (大小: 1946505 字节, MD5: 842faa6f91c4bc9d1176433d6c3c5e31)
+        文件: T2.in (大小: 1 字节, MD5: 68b329da9893e34099c7d8ad5cb9c940)
+        文件: T2.out (大小: 1 字节, MD5: 68b329da9893e34099c7d8ad5cb9c940)
+    目录: ./answers\TJ-0013\tree
+        文件: T3.in (大小: 1 字节, MD5: 68b329da9893e34099c7d8ad5cb9c940)
+        文件: T3.out (大小: 1 字节, MD5: 68b329da9893e34099c7d8ad5cb9c940)
+        文件: tree.cpp (大小: 997 字节, MD5: ca4f309e0fc8555656b213bb364784d7)
+        文件: tree.exe (大小: 1951751 字节, MD5: 331825f158595d7217288603634b4fc4)
+        文件: tree.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+目录: ./answers\TJ-0014
+    目录: ./answers\TJ-0014\candy
+        文件: candy.cpp (大小: 1484 字节, MD5: 8303e4fe4b04fd0596419a195c15569e)
+        文件: candy.exe (大小: 2023582 字节, MD5: d6b8a9c7c90cf43dea1a2927e38080ec)
+        文件: candy.out (大小: 4 字节, MD5: 67f1f5078b81f16d7c56603e96c5d994)
+        文件: candy1.ans (大小: 2 字节, MD5: 48a24b70a0b376535542b996af517398)
+        文件: candy1.in (大小: 13 字节, MD5: d172161f9b02b40775e04ecefc192ef0)
+        文件: candy2.ans (大小: 2 字节, MD5: c30f7472766d25af1dc80b3ffc9a58c7)
+        文件: candy2.in (大小: 17 字节, MD5: 8d414fdac6b47bbca322f77629b28f1f)
+        文件: candy3.ans (大小: 3 字节, MD5: 4fbafd6948b6529caa2b78e476359875)
+        文件: candy3.in (大小: 592 字节, MD5: e797587a6a703bd133187835d5dc81c9)
+        文件: candy4.ans (大小: 3 字节, MD5: 5b6b41ed9b343fed9cd05a66d36650f0)
+        文件: candy4.in (大小: 588 字节, MD5: 0e65ff338c72c021f95bcdbcb462abd0)
+        文件: candy5.ans (大小: 3 字节, MD5: 90e2a51705594d033a3abe9d77b2b7ad)
+        文件: candy5.in (大小: 9798 字节, MD5: 1a6be53723c813cf60ea61f976e4b333)
+        文件: candy6.ans (大小: 3 字节, MD5: 60f3db995d0676b576372c0ee45b7ac0)
+        文件: candy6.in (大小: 9777 字节, MD5: 124e92de53a7d5b152bad98988299fe7)
+        文件: candy7.ans (大小: 5 字节, MD5: 7b2ffdd9b1fe7a7e59153e3eeefb0cfa)
+        文件: candy7.in (大小: 1978006 字节, MD5: 323f97b94b03256e70c9882f18267281)
+    目录: ./answers\TJ-0014\query
+        文件: query.cpp (大小: 126 字节, MD5: f431bd93132c13428db82d49322e112e)
+        文件: query1.ans (大小: 25 字节, MD5: dc5601099b07416892e13898267d0638)
+        文件: query1.in (大小: 25 字节, MD5: 1d3b17636f23a2cbf32150577b00258c)
+        文件: query2.ans (大小: 630 字节, MD5: 5ad30df6c06c79508d2b032e2c0eed89)
+        文件: query2.in (大小: 13234 字节, MD5: c49a8c4c0a632f1d1b7ea651c1c1fa27)
+        文件: query3.ans (大小: 1897 字节, MD5: 679fe0695759ffc638f463e9951c0687)
+        文件: query3.in (大小: 64755 字节, MD5: c0478674fd4490c27b63558543f11074)
+        文件: query4.ans (大小: 15958 字节, MD5: 8a164707914899d2780f2d6a6e713493)
+        文件: query4.in (大小: 329858 字节, MD5: 52cc67829bde204535aa9361f4154225)
+        文件: query5.ans (大小: 8743 字节, MD5: 4bcf154b32a3b41fd8e4aa7a9dfec6fd)
+        文件: query5.in (大小: 321929 字节, MD5: bf6eb0342eed0bb3214da20973c15c1f)
+        文件: query6.ans (大小: 6656 字节, MD5: a865acfd26cbdb6e9af335f333201f14)
+        文件: query6.in (大小: 323800 字节, MD5: 771a7b564fc74c4257f09a02dbcf3c4f)
+        文件: query7.ans (大小: 13336 字节, MD5: 1d5ec41fa57aab7e8f6f819f72b5efc1)
+        文件: query7.in (大小: 331792 字节, MD5: c400297f2f51411d233fd313c7a9745a)
+        文件: query8.ans (大小: 15627 字节, MD5: 1b5235afcf238f5c25a6080f0be8222d)
+        文件: query8.in (大小: 325965 字节, MD5: 59a8928be1029170e38fece648c6f517)
+    目录: ./answers\TJ-0014\sale
+        文件: sale.cpp (大小: 2227 字节, MD5: 22883b73215cfa9c55d91c94c6b34a1e)
+        文件: sale.exe (大小: 1943728 字节, MD5: ce04b66111f3c9239036adff7e6db553)
+        文件: sale1.ans (大小: 2 字节, MD5: 9ae0ea9e3c9c6e1b9b6252c8395efdc1)
+        文件: sale1.in (大小: 14 字节, MD5: 11fba08df93afc1d4d109b71bdb84b31)
+        文件: sale10.ans (大小: 1294 字节, MD5: 7d126fa3d7766736ede9a9b3f5bffd4f)
+        文件: sale10.in (大小: 100192 字节, MD5: d63c097d37e8d7ee4ebf46776f61eaae)
+        文件: sale11.ans (大小: 2047 字节, MD5: cde22352c62e126a4df7b8ad75d75daa)
+        文件: sale11.in (大小: 498186 字节, MD5: f25b9ea1bd1b2ee9d2e19847e758dc3a)
+        文件: sale2.ans (大小: 3000 字节, MD5: 28ad2c962e3cebe063d22d2804db2925)
+        文件: sale2.in (大小: 53473 字节, MD5: 71b11ac0a16057a0aa5d519d20348744)
+        文件: sale3.ans (大小: 2169 字节, MD5: 8eeb59822dced7da521ce22435660a53)
+        文件: sale3.in (大小: 52523 字节, MD5: 23175b73a0d68ed85b4177a10b95006f)
+        文件: sale4.ans (大小: 893 字节, MD5: 064f14cc22477018437529bac643cc34)
+        文件: sale4.in (大小: 50266 字节, MD5: c5796f8c0fc756cd1787023b66a010de)
+        文件: sale5.ans (大小: 831 字节, MD5: 336862afa643d78e4aa795c9d98f324e)
+        文件: sale5.in (大小: 50667 字节, MD5: 96241479985bf3581ed68bd7947cdf72)
+        文件: sale6.ans (大小: 837 字节, MD5: 81d7921fe203e5c389c282ff6784dee7)
+        文件: sale6.in (大小: 50366 字节, MD5: c91aa61e58597ae461584b850a6625ca)
+        文件: sale7.ans (大小: 1290 字节, MD5: b253a360cbab60c41b310f0686c6f485)
+        文件: sale7.in (大小: 100102 字节, MD5: b4b483af46c6dc18877aef8bdb6477e3)
+        文件: sale8.ans (大小: 1295 字节, MD5: e9e5c87d44461ee984d78b654523ac5c)
+        文件: sale8.in (大小: 99594 字节, MD5: ef879ebce23c3c5b45d8c26a126a1280)
+        文件: sale9.ans (大小: 1287 字节, MD5: b925f23b08a7764ed46d439f4e9330c6)
+        文件: sale9.in (大小: 100784 字节, MD5: fe7cb95a375d4e39fdcd4d70810eaf6b)
+    目录: ./answers\TJ-0014\tree
+        文件: tree1.ans (大小: 5 字节, MD5: fa10546ac4464ddc33844e0ba294c1ac)
+        文件: tree1.in (大小: 30 字节, MD5: 88f1e7ac5d9b784b7d3f53932830b238)
+        文件: tree2.ans (大小: 15 字节, MD5: 777af47c6673efad3fc92e0909c3db44)
+        文件: tree2.in (大小: 158 字节, MD5: d6728106f55142eaefac99bd57da1344)
+        文件: tree3.ans (大小: 20 字节, MD5: bc94d3e5b42e870f75d019093683ea5b)
+        文件: tree3.in (大小: 542 字节, MD5: 8dc19578b0bccd41261037d9c1b9fda4)
+        文件: tree4.ans (大小: 25 字节, MD5: ade17fc1a28f3c82537e1b6feae05904)
+        文件: tree4.in (大小: 72574 字节, MD5: 4d2f848d61743e3c6b2801cbd2b7d272)
+        文件: tree5.ans (大小: 30 字节, MD5: b27dcdc6ce433e6a75ee4068ba1244ba)
+        文件: tree5.in (大小: 93840 字节, MD5: e36833fbc5ce6deb927a87a77e61c6c7)
+目录: ./answers\TJ-0015
+    目录: ./answers\TJ-0015\candy
+        文件: candy.cpp (大小: 1122 字节, MD5: 46aa3dc9e9b320eb195fed5af7c64581)
+    目录: ./answers\TJ-0015\query
+        文件: query.cpp (大小: 1817 字节, MD5: 33dc1fb480db811fc1bbaea05a3c1c7b)
+    目录: ./answers\TJ-0015\sale
+        文件: sale.cpp (大小: 2296 字节, MD5: e7ffde0a549f96503f5e586741b97076)
+    目录 (无文件): ./answers\TJ-0015\tree
+目录: ./answers\TJ-0016
+    目录: ./answers\TJ-0016\candy
+        文件: candy.cpp (大小: 749 字节, MD5: 2483a2db7ba46313e14da78730668ba0)
+    目录: ./answers\TJ-0016\query
+        文件: query.cpp (大小: 1496 字节, MD5: bd35f820c3dc7f854a13e530ea7131a6)
+    目录: ./answers\TJ-0016\sale
+        文件: sale.cpp (大小: 1894 字节, MD5: 99ca1187cff8dfe51d293bc74bbd2bf1)
+    目录: ./answers\TJ-0016\tree
+        文件: tree.cpp (大小: 1986 字节, MD5: c1ee79efe91f0e01001a65b6e4fc937b)
+目录: ./answers\TJ-0017
+    目录: ./answers\TJ-0017\candy
+        文件: candy.cpp (大小: 694 字节, MD5: 7f01b5fcb12b0dc87f912c1c24a8ace1)
+    目录: ./answers\TJ-0017\sale
+        文件: sale.cpp (大小: 1574 字节, MD5: 3b5568b48bf15a061a1c8b7a8c38dc6d)
+    目录: ./answers\TJ-0017\tree
+        文件: tree.cpp (大小: 1054 字节, MD5: 5e39c95830adbdaabd8767ac8a00478c)
+目录: ./answers\TJ-0018
+    目录: ./answers\TJ-0018\candy
+        文件: candy.cpp (大小: 638 字节, MD5: 2e62bee5b71dc818ca426627b7a5f4f1)
+    目录: ./answers\TJ-0018\query
+        文件: query.cpp (大小: 240 字节, MD5: 876e4a6e024860464247b4e9540d8270)
+    目录: ./answers\TJ-0018\sale
+        文件: sale.cpp (大小: 2259 字节, MD5: 56e96a982c50b37816692541b75b6a3c)
+    目录: ./answers\TJ-0018\tree
+        文件: tree.cpp (大小: 437 字节, MD5: 78ff3d55f4c35471b571308a2bbeb817)
+目录: ./answers\TJ-0019
+    目录: ./answers\TJ-0019\candy
+        文件: candy (大小: 40656 字节, MD5: b56332d5d2f3e97c4c0d0396cc7831f8)
+        文件: candy.cpp (大小: 1148 字节, MD5: 15155affa741d9a1d98dd3475e6208be)
+        文件: candy.exe (大小: 2004923 字节, MD5: 0682e66e9a76b0fe25499c6ba5dab6d6)
+        文件: candy.o (大小: 45216 字节, MD5: 45e862691a17fc9253905e84172ebf82)
+        文件: candy.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: candy1.ans (大小: 2 字节, MD5: 48a24b70a0b376535542b996af517398)
+        文件: candy1.in (大小: 13 字节, MD5: d172161f9b02b40775e04ecefc192ef0)
+        文件: candy2.ans (大小: 2 字节, MD5: c30f7472766d25af1dc80b3ffc9a58c7)
+        文件: candy2.in (大小: 17 字节, MD5: 8d414fdac6b47bbca322f77629b28f1f)
+        文件: candy3.ans (大小: 3 字节, MD5: 4fbafd6948b6529caa2b78e476359875)
+        文件: candy3.in (大小: 592 字节, MD5: e797587a6a703bd133187835d5dc81c9)
+        文件: candy4.ans (大小: 3 字节, MD5: 5b6b41ed9b343fed9cd05a66d36650f0)
+        文件: candy4.in (大小: 588 字节, MD5: 0e65ff338c72c021f95bcdbcb462abd0)
+        文件: candy5.ans (大小: 3 字节, MD5: 90e2a51705594d033a3abe9d77b2b7ad)
+        文件: candy5.in (大小: 9798 字节, MD5: 1a6be53723c813cf60ea61f976e4b333)
+        文件: candy6.ans (大小: 3 字节, MD5: 60f3db995d0676b576372c0ee45b7ac0)
+        文件: candy6.in (大小: 9777 字节, MD5: 124e92de53a7d5b152bad98988299fe7)
+        文件: candy7.ans (大小: 5 字节, MD5: 7b2ffdd9b1fe7a7e59153e3eeefb0cfa)
+        文件: candy7.in (大小: 1978006 字节, MD5: 323f97b94b03256e70c9882f18267281)
+        文件: rand (大小: 21016 字节, MD5: 78aaa241dc7baec73f3018e2b661fea8)
+        文件: rand.cpp (大小: 634 字节, MD5: 4319d6d44a95b0337089db06eaa96dd1)
+        文件: rand.o (大小: 9392 字节, MD5: c514f699a0c66c0c569d8324fba9847d)
+        文件: sale.in (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0019\query
+        文件: query.cpp (大小: 356 字节, MD5: c648906b6ed4f9c5b33b0255960dc55a)
+    目录: ./answers\TJ-0019\sale
+        文件: sale.cpp (大小: 2510 字节, MD5: bbfe3a8ae5dcbd7a8983e11a7c77827a)
+        文件: sale.exe (大小: 2007709 字节, MD5: e3a50f0b19b87de79210f953e36b13c0)
+        文件: sale.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0019\tree
+        文件: tree (大小: 20704 字节, MD5: 9687f0f8c3c75818677d48b0123f5bc3)
+        文件: tree.cpp (大小: 1250 字节, MD5: b3d2b207be2417074509c7b3a6e1b382)
+        文件: tree.exe (大小: 2005938 字节, MD5: 6d0f83005414bce8c455941ee5d97feb)
+        文件: tree.o (大小: 9624 字节, MD5: 1ae44c2c5c327dcf3e3954ffe4b41194)
+        文件: tree.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: tree1.ans (大小: 5 字节, MD5: fa10546ac4464ddc33844e0ba294c1ac)
+        文件: tree1.in (大小: 30 字节, MD5: 88f1e7ac5d9b784b7d3f53932830b238)
+        文件: tree2.ans (大小: 15 字节, MD5: 777af47c6673efad3fc92e0909c3db44)
+        文件: tree2.in (大小: 158 字节, MD5: d6728106f55142eaefac99bd57da1344)
+        文件: tree3.ans (大小: 20 字节, MD5: bc94d3e5b42e870f75d019093683ea5b)
+        文件: tree3.in (大小: 542 字节, MD5: 8dc19578b0bccd41261037d9c1b9fda4)
+        文件: tree4.ans (大小: 25 字节, MD5: ade17fc1a28f3c82537e1b6feae05904)
+        文件: tree4.in (大小: 72574 字节, MD5: 4d2f848d61743e3c6b2801cbd2b7d272)
+        文件: tree5.ans (大小: 30 字节, MD5: b27dcdc6ce433e6a75ee4068ba1244ba)
+        文件: tree5.in (大小: 93840 字节, MD5: e36833fbc5ce6deb927a87a77e61c6c7)
+目录: ./answers\TJ-0020
+    目录: ./answers\TJ-0020\candy
+        文件: candy.cpp (大小: 817 字节, MD5: 2a6c1b803d7c76840d5b3afddf21793a)
+    目录: ./answers\TJ-0020\sale
+        文件: sale.cpp (大小: 2847 字节, MD5: 724376d0643177362993c494a023374a)
+目录: ./answers\TJ-0021
+    目录: ./answers\TJ-0021\candy
+        文件: candy.cpp (大小: 748 字节, MD5: 6a57f7e3179f75daaf1d08cffff0e055)
+    目录: ./answers\TJ-0021\query
+        文件: query.cpp (大小: 2077 字节, MD5: 056a11d34643ff30080fa2e8b6f305f7)
+    目录: ./answers\TJ-0021\sale
+        文件: sale.cpp (大小: 3555 字节, MD5: 78172b9d6d4b615a8710c95b6bd795c5)
+    目录: ./answers\TJ-0021\tree
+        文件: tree.cpp (大小: 1450 字节, MD5: 42b700cab18a2f83a3d16800a53db509)
+目录: ./answers\TJ-0022
+    目录: ./answers\TJ-0022\candy
+        文件: candy.cpp (大小: 1697 字节, MD5: db1c94a759292f56d58b3bf434de2b16)
+    目录: ./answers\TJ-0022\query
+        文件: query.cpp (大小: 988 字节, MD5: e5024bd1a08fb3ee2df9bcb4a7fd0e12)
+    目录: ./answers\TJ-0022\sale
+        文件: sale.cpp (大小: 1874 字节, MD5: 6b9d32aee068a4676bf350bacb50fdfe)
+    目录: ./answers\TJ-0022\tree
+        文件: tree.cpp (大小: 1189 字节, MD5: c53b00880d2fd865d117e69dc5114e87)
+目录: ./answers\TJ-0023
+    目录: ./answers\TJ-0023\candy
+        文件: candy.cpp (大小: 495 字节, MD5: c151456832f3bde5b396e51e4b0c01f1)
+    目录: ./answers\TJ-0023\query
+        文件: query.cpp (大小: 434 字节, MD5: bbd9ff5133e011402c782eaf89e647ae)
+    目录: ./answers\TJ-0023\sale
+        文件: sale.cpp (大小: 1168 字节, MD5: 58e98b566d55c657d1ca07470847360b)
+    目录: ./answers\TJ-0023\tree
+        文件: tree.cpp (大小: 758 字节, MD5: d822555e6ae84516440708f3ea371352)
+目录: ./answers\TJ-0024
+    目录: ./answers\TJ-0024\candy
+        文件: candy.cpp (大小: 1114 字节, MD5: 869f964570b7b649b80b01655a4a3f8b)
+    目录: ./answers\TJ-0024\sale
+        文件: sale.cpp (大小: 3663 字节, MD5: 432df6a9c914927c3ae2204f8883af12)
+    目录: ./answers\TJ-0024\tree
+        文件: tree.cpp (大小: 1317 字节, MD5: 028afd2534ddad5b84a6588d4aa9722f)
+目录: ./answers\TJ-0025
+    目录: ./answers\TJ-0025\candy
+        文件: candy.cpp (大小: 1159 字节, MD5: e1a452044cc65d9950d2b2d26f7a8167)
+    目录: ./answers\TJ-0025\query
+        文件: query.cpp (大小: 141 字节, MD5: cf945ed8032d625b266033dceb8c88b9)
+    目录: ./answers\TJ-0025\sale
+        文件: sale.cpp (大小: 476 字节, MD5: fbf30c3d5aa8e047c8b144ab4df6ddf2)
+    目录: ./answers\TJ-0025\tree
+        文件: tree.cpp (大小: 2644 字节, MD5: 0578818fd1e9607042abce2d22eaee62)
+目录: ./answers\TJ-0026
+    目录: ./answers\TJ-0026\candy
+        文件: candy.cpp (大小: 2040 字节, MD5: a25c1524d27722337912b0de01a2f247)
+    目录 (无文件): ./answers\TJ-0026\query
+    目录: ./answers\TJ-0026\sale
+        文件: sale.cpp (大小: 2692 字节, MD5: 8af441d835502eb440852bb310564bb8)
+    目录 (无文件): ./answers\TJ-0026\tree
+目录: ./answers\TJ-0027
+    目录: ./answers\TJ-0027\candy
+        文件: candy.cpp (大小: 1398 字节, MD5: 02e409ad7d7d69d7086ef4f00f86b05e)
+    目录: ./answers\TJ-0027\query
+        文件: query.cpp (大小: 1398 字节, MD5: 42a932635746ce41efa6df981123fce5)
+    目录: ./answers\TJ-0027\sale
+        文件: sale.cpp (大小: 1243 字节, MD5: 8c7a54d66c4f715d5f126d86cf62e8a5)
+    目录: ./answers\TJ-0027\tree
+        文件: tree.cpp (大小: 231 字节, MD5: fc161a898ef7b35fd7fc3abdc907c862)
+目录: ./answers\TJ-0028
+    目录: ./answers\TJ-0028\candy
+        文件: candy.cpp (大小: 2656 字节, MD5: b6720eecbbd32ca268fafb6cc32c211d)
+    目录: ./answers\TJ-0028\query
+        文件: query.cpp (大小: 944 字节, MD5: 9022895a198b3437e895c44eb8bd8c80)
+    目录: ./answers\TJ-0028\sale
+        文件: sale.cpp (大小: 3189 字节, MD5: fc2073deca2b073b200b6fe2ad2c3458)
+    目录: ./answers\TJ-0028\tree
+        文件: tree.cpp (大小: 804 字节, MD5: 79485f1807fccce6b17bd68215b35633)
+目录: ./answers\TJ-0029
+    目录: ./answers\TJ-0029\candy
+        文件: candy.cpp (大小: 780 字节, MD5: f1ea9c47903e47f47a23655e08c4ee01)
+    目录: ./answers\TJ-0029\query
+        文件: query.cpp (大小: 882 字节, MD5: 04f1b13fa0d2394886b6aebde6c3ed98)
+    目录: ./answers\TJ-0029\sale
+        文件: sale.cpp (大小: 934 字节, MD5: 1f73d22f89549be9f8359fbdec8eb16f)
+    目录: ./answers\TJ-0029\tree
+        文件: tree.cpp (大小: 1439 字节, MD5: 4b332343571ce93dac434a8db4cb1285)
+目录: ./answers\TJ-0030
+    目录: ./answers\TJ-0030\candy
+        文件: candy.cpp (大小: 936 字节, MD5: 7989e670e1aea2744f0accc369c9749c)
+        文件: candy.exe (大小: 1944340 字节, MD5: b1986dc69b1d54ee4ad9afbda00ba13a)
+        文件: candy.out (大小: 1 字节, MD5: cfcd208495d565ef66e7dff9f98764da)
+    目录 (无文件): ./answers\TJ-0030\query
+    目录: ./answers\TJ-0030\sale
+        文件: sale.cpp (大小: 675 字节, MD5: 9a8d980357bfcdce0ad701965e9599a6)
+    目录: ./answers\TJ-0030\tree
+        文件: tree.cpp (大小: 833 字节, MD5: b27a2e18644496566643348b5bf0ef9a)
+        文件: tree.exe (大小: 1952623 字节, MD5: 272e6644b14ad70acba7ac1e24c3067c)
+        文件: tree.out (大小: 20 字节, MD5: 5bf5e009d24ef182c2fc7ca66acb03f3)
+目录: ./answers\TJ-0031
+    目录: ./answers\TJ-0031\candy
+        文件: candy.cpp (大小: 1187 字节, MD5: 355fb9231f3440e4773bf806e9b9ea7e)
+    目录: ./answers\TJ-0031\query
+        文件: query.cpp (大小: 543 字节, MD5: b8bc88e5d82de9cdd4436a6f77bdbad3)
+    目录: ./answers\TJ-0031\sale
+        文件: sale.cpp (大小: 1140 字节, MD5: 8ee405cd0bef9bf49da1cb37eaecc4e2)
+    目录: ./answers\TJ-0031\tree
+        文件: tree.cpp (大小: 838 字节, MD5: 5d564d51195fe0c09e0a3b718c6413a2)
+目录: ./answers\TJ-0032
+    目录: ./answers\TJ-0032\candy
+        文件: candy.cpp (大小: 641 字节, MD5: c74987546c01185d653ecd0eb7ab9c56)
+    目录: ./answers\TJ-0032\sale
+        文件: sale.cpp (大小: 2230 字节, MD5: 4e981ad04f5e294757f2b7a5aede2323)
+目录: ./answers\TJ-0033
+    目录: ./answers\TJ-0033\candy
+        文件: candy.cpp (大小: 708 字节, MD5: 4713047b655b7da38d41402685c49330)
+    目录: ./answers\TJ-0033\sale
+        文件: sale.cpp (大小: 1018 字节, MD5: 7e4e5429231280540a1d2e76375c4a30)
+    目录: ./answers\TJ-0033\tree
+        文件: tree.cpp (大小: 1035 字节, MD5: 59c0daf77e5a7e960c1fdcb6b57fd9df)
+目录: ./answers\TJ-0034
+    目录: ./answers\TJ-0034\candy
+        文件: candy.cpp (大小: 1618 字节, MD5: d3d7914984be603d8c1858ee5049c4fa)
+    目录: ./answers\TJ-0034\query
+        文件: query.cpp (大小: 736 字节, MD5: 6256f85924883ffd6160589c340f185d)
+    目录: ./answers\TJ-0034\sale
+        文件: sale.cpp (大小: 1109 字节, MD5: a8b30b9395d418aaf04b65c259a9bde7)
+    目录: ./answers\TJ-0034\tree
+        文件: tree.cpp (大小: 346 字节, MD5: 17db7c1e80b12ae1229d8948864c3d29)
+目录: ./answers\TJ-0035
+    目录: ./answers\TJ-0035\candy
+        文件: candy.cpp (大小: 786 字节, MD5: 35dd685ed56a56658f4202371826bf68)
+    目录: ./answers\TJ-0035\query
+        文件: query.cpp (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0035\sale
+        文件: sale.cpp (大小: 719 字节, MD5: 7b9d06d439080c33068806c1bdbb425e)
+    目录: ./answers\TJ-0035\tree
+        文件: tree.cpp (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+目录: ./answers\TJ-0036
+    目录: ./answers\TJ-0036\candy
+        文件: candy.cpp (大小: 1262 字节, MD5: 84a34d2b9ab194c16db08bfd826fdfe0)
+    目录: ./answers\TJ-0036\sale
+        文件: sale.cpp (大小: 2234 字节, MD5: e6626556d497aa035ed282198f975f58)
+目录: ./answers\TJ-0037
+    目录: ./answers\TJ-0037\candy
+        文件: candy.cpp (大小: 1154 字节, MD5: b83007710a46c87553cd0cce6feff191)
+    目录: ./answers\TJ-0037\sale
+        文件: sale.cpp (大小: 1560 字节, MD5: f23c92f66a7a325e15968d5f21134f1f)
+目录: ./answers\TJ-0038
+    目录: ./answers\TJ-0038\candy
+        文件: candy.cpp (大小: 660 字节, MD5: 89171b03156fad638e4ccaf24a922f48)
+    目录: ./answers\TJ-0038\query
+        文件: query.cpp (大小: 1 字节, MD5: 68b329da9893e34099c7d8ad5cb9c940)
+    目录: ./answers\TJ-0038\sale
+        文件: sale.cpp (大小: 619 字节, MD5: e586b93f5b6702da64ee7b6ee15f4b1a)
+    目录: ./answers\TJ-0038\tree
+        文件: tree.cpp (大小: 391 字节, MD5: 0df13051227b1fd64a0e4420e42189b9)
+目录: ./answers\TJ-0039
+    目录: ./answers\TJ-0039\candy
+        文件: candy.cpp (大小: 1632 字节, MD5: 8a7e24a003f0a3b81f1b135e0890f1ae)
+        文件: candy.exe (大小: 1991532 字节, MD5: 6b26f2a50ed2179007c7a34fd099eae0)
+        文件: candy1.ans (大小: 2 字节, MD5: 48a24b70a0b376535542b996af517398)
+        文件: candy1.in (大小: 13 字节, MD5: d172161f9b02b40775e04ecefc192ef0)
+        文件: candy2.ans (大小: 2 字节, MD5: c30f7472766d25af1dc80b3ffc9a58c7)
+        文件: candy2.in (大小: 17 字节, MD5: 8d414fdac6b47bbca322f77629b28f1f)
+        文件: candy3.ans (大小: 3 字节, MD5: 4fbafd6948b6529caa2b78e476359875)
+        文件: candy3.in (大小: 592 字节, MD5: e797587a6a703bd133187835d5dc81c9)
+        文件: candy4.ans (大小: 3 字节, MD5: 5b6b41ed9b343fed9cd05a66d36650f0)
+        文件: candy4.in (大小: 588 字节, MD5: 0e65ff338c72c021f95bcdbcb462abd0)
+        文件: candy5.ans (大小: 3 字节, MD5: 90e2a51705594d033a3abe9d77b2b7ad)
+        文件: candy5.in (大小: 9798 字节, MD5: 1a6be53723c813cf60ea61f976e4b333)
+        文件: candy6.ans (大小: 3 字节, MD5: 60f3db995d0676b576372c0ee45b7ac0)
+        文件: candy6.in (大小: 9777 字节, MD5: 124e92de53a7d5b152bad98988299fe7)
+        文件: candy7.ans (大小: 5 字节, MD5: 7b2ffdd9b1fe7a7e59153e3eeefb0cfa)
+        文件: candy7.in (大小: 1978006 字节, MD5: 323f97b94b03256e70c9882f18267281)
+    目录: ./answers\TJ-0039\query
+        文件: query.cpp (大小: 3568 字节, MD5: 44a48063e04119a9ecbf7e94f0ba7bed)
+        文件: query.exe (大小: 1930321 字节, MD5: dfa8d1a7c430617fa7e578b59e5e1dd8)
+        文件: query1.ans (大小: 25 字节, MD5: dc5601099b07416892e13898267d0638)
+        文件: query1.in (大小: 25 字节, MD5: 1d3b17636f23a2cbf32150577b00258c)
+        文件: query2.ans (大小: 630 字节, MD5: 5ad30df6c06c79508d2b032e2c0eed89)
+        文件: query2.in (大小: 13234 字节, MD5: c49a8c4c0a632f1d1b7ea651c1c1fa27)
+        文件: query3.ans (大小: 1897 字节, MD5: 679fe0695759ffc638f463e9951c0687)
+        文件: query3.in (大小: 64755 字节, MD5: c0478674fd4490c27b63558543f11074)
+        文件: query4.ans (大小: 15958 字节, MD5: 8a164707914899d2780f2d6a6e713493)
+        文件: query4.in (大小: 329858 字节, MD5: 52cc67829bde204535aa9361f4154225)
+        文件: query5.ans (大小: 8743 字节, MD5: 4bcf154b32a3b41fd8e4aa7a9dfec6fd)
+        文件: query5.in (大小: 321929 字节, MD5: bf6eb0342eed0bb3214da20973c15c1f)
+        文件: query6.ans (大小: 6656 字节, MD5: a865acfd26cbdb6e9af335f333201f14)
+        文件: query6.in (大小: 323800 字节, MD5: 771a7b564fc74c4257f09a02dbcf3c4f)
+        文件: query7.ans (大小: 13336 字节, MD5: 1d5ec41fa57aab7e8f6f819f72b5efc1)
+        文件: query7.in (大小: 331792 字节, MD5: c400297f2f51411d233fd313c7a9745a)
+        文件: query8.ans (大小: 15627 字节, MD5: 1b5235afcf238f5c25a6080f0be8222d)
+        文件: query8.in (大小: 325965 字节, MD5: 59a8928be1029170e38fece648c6f517)
+    目录: ./answers\TJ-0039\sale
+        文件: sale.cpp (大小: 1463 字节, MD5: 120f6d1e434bcd7341ca8c964e503b4e)
+        文件: sale.exe (大小: 1974797 字节, MD5: ccfa2aef26f025213a2bbb3c78b55bca)
+        文件: sale1.ans (大小: 2 字节, MD5: 9ae0ea9e3c9c6e1b9b6252c8395efdc1)
+        文件: sale1.in (大小: 14 字节, MD5: 11fba08df93afc1d4d109b71bdb84b31)
+        文件: sale10.ans (大小: 1294 字节, MD5: 7d126fa3d7766736ede9a9b3f5bffd4f)
+        文件: sale10.in (大小: 100192 字节, MD5: d63c097d37e8d7ee4ebf46776f61eaae)
+        文件: sale11.ans (大小: 2047 字节, MD5: cde22352c62e126a4df7b8ad75d75daa)
+        文件: sale11.in (大小: 498186 字节, MD5: f25b9ea1bd1b2ee9d2e19847e758dc3a)
+        文件: sale2.ans (大小: 3000 字节, MD5: 28ad2c962e3cebe063d22d2804db2925)
+        文件: sale2.in (大小: 53473 字节, MD5: 71b11ac0a16057a0aa5d519d20348744)
+        文件: sale3.ans (大小: 2169 字节, MD5: 8eeb59822dced7da521ce22435660a53)
+        文件: sale3.in (大小: 52523 字节, MD5: 23175b73a0d68ed85b4177a10b95006f)
+        文件: sale4.ans (大小: 893 字节, MD5: 064f14cc22477018437529bac643cc34)
+        文件: sale4.in (大小: 50266 字节, MD5: c5796f8c0fc756cd1787023b66a010de)
+        文件: sale5.ans (大小: 831 字节, MD5: 336862afa643d78e4aa795c9d98f324e)
+        文件: sale5.in (大小: 50667 字节, MD5: 96241479985bf3581ed68bd7947cdf72)
+        文件: sale6.ans (大小: 837 字节, MD5: 81d7921fe203e5c389c282ff6784dee7)
+        文件: sale6.in (大小: 50366 字节, MD5: c91aa61e58597ae461584b850a6625ca)
+        文件: sale7.ans (大小: 1290 字节, MD5: b253a360cbab60c41b310f0686c6f485)
+        文件: sale7.in (大小: 100102 字节, MD5: b4b483af46c6dc18877aef8bdb6477e3)
+        文件: sale8.ans (大小: 1295 字节, MD5: e9e5c87d44461ee984d78b654523ac5c)
+        文件: sale8.in (大小: 99594 字节, MD5: ef879ebce23c3c5b45d8c26a126a1280)
+        文件: sale9.ans (大小: 1287 字节, MD5: b925f23b08a7764ed46d439f4e9330c6)
+        文件: sale9.in (大小: 100784 字节, MD5: fe7cb95a375d4e39fdcd4d70810eaf6b)
+    目录: ./answers\TJ-0039\tree
+        文件: tree.cpp (大小: 208 字节, MD5: fe3d1526547fb4b0fc3f07f9923a3128)
+        文件: tree1.ans (大小: 5 字节, MD5: fa10546ac4464ddc33844e0ba294c1ac)
+        文件: tree1.in (大小: 30 字节, MD5: 88f1e7ac5d9b784b7d3f53932830b238)
+        文件: tree2.ans (大小: 15 字节, MD5: 777af47c6673efad3fc92e0909c3db44)
+        文件: tree2.in (大小: 158 字节, MD5: d6728106f55142eaefac99bd57da1344)
+        文件: tree3.ans (大小: 20 字节, MD5: bc94d3e5b42e870f75d019093683ea5b)
+        文件: tree3.in (大小: 542 字节, MD5: 8dc19578b0bccd41261037d9c1b9fda4)
+        文件: tree4.ans (大小: 25 字节, MD5: ade17fc1a28f3c82537e1b6feae05904)
+        文件: tree4.in (大小: 72574 字节, MD5: 4d2f848d61743e3c6b2801cbd2b7d272)
+        文件: tree5.ans (大小: 30 字节, MD5: b27dcdc6ce433e6a75ee4068ba1244ba)
+        文件: tree5.in (大小: 93840 字节, MD5: e36833fbc5ce6deb927a87a77e61c6c7)
+目录: ./answers\TJ-0040
+    目录: ./answers\TJ-0040\candy
+        文件: candy.cpp (大小: 919 字节, MD5: ce3c623729236ed43b163ec80ba1d890)
+    目录 (无文件): ./answers\TJ-0040\query
+    目录: ./answers\TJ-0040\sale
+        文件: sale.cpp (大小: 491 字节, MD5: 380f62e90c312e8aa726dc30a277361b)
+    目录: ./answers\TJ-0040\tree
+        文件: tree.cpp (大小: 477 字节, MD5: ebe621cce6aabf335d173eb21ddd075e)
+目录: ./answers\TJ-0041
+    目录: ./answers\TJ-0041\candy
+        文件: candy.cpp (大小: 1581 字节, MD5: 4c6226992816650b4c9c243289f837a8)
+    目录: ./answers\TJ-0041\sale
+        文件: sale.cpp (大小: 433 字节, MD5: a082d73dcdf3f510e0e584b98208b63c)
+目录: ./answers\TJ-0042
+    目录: ./answers\TJ-0042\candy
+        文件: candy.cpp (大小: 754 字节, MD5: 3e9a2333598c6ba7123066052c3a76d0)
+    目录: ./answers\TJ-0042\query
+        文件: query.cpp (大小: 295 字节, MD5: cee147b629376f95c29a098929dea4f4)
+    目录: ./answers\TJ-0042\sale
+        文件: sale.cpp (大小: 1564 字节, MD5: b9ce0eb5b0af38d7ffff2005555cba8c)
+    目录 (无文件): ./answers\TJ-0042\tree
+目录: ./answers\TJ-0043
+    目录: ./answers\TJ-0043\candy
+        文件: candy.cpp (大小: 2336 字节, MD5: 741c7b97760a7f6fdc1341ef8f0360a8)
+    目录: ./answers\TJ-0043\query
+        文件: query.cpp (大小: 264 字节, MD5: c098729c64875d27b6c479737ff70388)
+    目录: ./answers\TJ-0043\sale
+        文件: sale.cpp (大小: 143 字节, MD5: 010b776a3fca912d660704a8b44182e3)
+    目录: ./answers\TJ-0043\tree
+        文件: tree.cpp (大小: 198 字节, MD5: f2bd5b38d59c0d21d7fb9b0cd7c32dfe)
+目录: ./answers\TJ-0044
+    目录: ./answers\TJ-0044\candy
+        文件: candy.cpp (大小: 808 字节, MD5: e8f33104b889e2f2fd7665f873560a2d)
+    目录: ./answers\TJ-0044\sale
+        文件: sale.cpp (大小: 522 字节, MD5: 78ba93a8c69f320ceb2ccc867452e1f2)
+        文件: sale.exe (大小: 1946592 字节, MD5: bc3ec767dcc054e2352177a5208d0fbc)
+    目录: ./answers\TJ-0044\tree
+        文件: tree.cpp (大小: 881 字节, MD5: c561ba80c8b43e81cc4bb86c95f14303)
+        文件: tree.exe (大小: 1923133 字节, MD5: babd558933372bc0ecadabc72692fd69)
+        文件: tree1.ans (大小: 5 字节, MD5: fa10546ac4464ddc33844e0ba294c1ac)
+        文件: tree1.in (大小: 30 字节, MD5: 88f1e7ac5d9b784b7d3f53932830b238)
+        文件: tree2.ans (大小: 15 字节, MD5: 777af47c6673efad3fc92e0909c3db44)
+        文件: tree2.in (大小: 158 字节, MD5: d6728106f55142eaefac99bd57da1344)
+        文件: tree3.ans (大小: 20 字节, MD5: bc94d3e5b42e870f75d019093683ea5b)
+        文件: tree3.in (大小: 542 字节, MD5: 8dc19578b0bccd41261037d9c1b9fda4)
+        文件: tree4.ans (大小: 25 字节, MD5: ade17fc1a28f3c82537e1b6feae05904)
+        文件: tree4.in (大小: 72574 字节, MD5: 4d2f848d61743e3c6b2801cbd2b7d272)
+        文件: tree5.ans (大小: 30 字节, MD5: b27dcdc6ce433e6a75ee4068ba1244ba)
+        文件: tree5.in (大小: 93840 字节, MD5: e36833fbc5ce6deb927a87a77e61c6c7)
+目录: ./answers\TJ-0045
+    目录: ./answers\TJ-0045\candy
+        文件: candy (大小: 69288 字节, MD5: c924ed64fc04bddba2446fb397c28f2b)
+        文件: candy.cpp (大小: 2388 字节, MD5: 16274187169fdb61519ceab542517515)
+        文件: candy.exe (大小: 2080685 字节, MD5: b6c5b1c4d1202f33a602b5c9cc6d5f28)
+        文件: candy.o (大小: 151432 字节, MD5: 28d1634262ad4ce48a9152c2e1408810)
+        文件: candy.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: candy1.ans (大小: 2 字节, MD5: 48a24b70a0b376535542b996af517398)
+        文件: candy1.in (大小: 13 字节, MD5: d172161f9b02b40775e04ecefc192ef0)
+        文件: candy2.ans (大小: 2 字节, MD5: c30f7472766d25af1dc80b3ffc9a58c7)
+        文件: candy2.in (大小: 17 字节, MD5: 8d414fdac6b47bbca322f77629b28f1f)
+        文件: candy3.ans (大小: 3 字节, MD5: 4fbafd6948b6529caa2b78e476359875)
+        文件: candy3.in (大小: 592 字节, MD5: e797587a6a703bd133187835d5dc81c9)
+        文件: candy4.ans (大小: 3 字节, MD5: 5b6b41ed9b343fed9cd05a66d36650f0)
+        文件: candy4.in (大小: 588 字节, MD5: 0e65ff338c72c021f95bcdbcb462abd0)
+        文件: candy5.ans (大小: 3 字节, MD5: 90e2a51705594d033a3abe9d77b2b7ad)
+        文件: candy5.in (大小: 9798 字节, MD5: 1a6be53723c813cf60ea61f976e4b333)
+        文件: candy6.ans (大小: 3 字节, MD5: 60f3db995d0676b576372c0ee45b7ac0)
+        文件: candy6.in (大小: 9777 字节, MD5: 124e92de53a7d5b152bad98988299fe7)
+        文件: candy7.ans (大小: 5 字节, MD5: 7b2ffdd9b1fe7a7e59153e3eeefb0cfa)
+        文件: candy7.in (大小: 1978006 字节, MD5: 323f97b94b03256e70c9882f18267281)
+    目录: ./answers\TJ-0045\query
+        文件: query (大小: 52016 字节, MD5: 6e96ca4dd67e39b7d875bf0b27da4dbb)
+        文件: query.cpp (大小: 944 字节, MD5: f4ac964dd46147fb987f04739147c1f6)
+        文件: query.exe (大小: 2029672 字节, MD5: 72b17b18e3c8731036598650a5066573)
+        文件: query.o (大小: 95208 字节, MD5: 0b4ed4a920282cb3888ba6d607dea2e5)
+        文件: query.out (大小: 25 字节, MD5: 7d44ccb68eb710808da387b652192de4)
+        文件: query1.ans (大小: 25 字节, MD5: dc5601099b07416892e13898267d0638)
+        文件: query1.in (大小: 25 字节, MD5: 1d3b17636f23a2cbf32150577b00258c)
+        文件: query2.ans (大小: 630 字节, MD5: 5ad30df6c06c79508d2b032e2c0eed89)
+        文件: query2.in (大小: 13234 字节, MD5: c49a8c4c0a632f1d1b7ea651c1c1fa27)
+        文件: query3.ans (大小: 1897 字节, MD5: 679fe0695759ffc638f463e9951c0687)
+        文件: query3.in (大小: 64755 字节, MD5: c0478674fd4490c27b63558543f11074)
+        文件: query4.ans (大小: 15958 字节, MD5: 8a164707914899d2780f2d6a6e713493)
+        文件: query4.in (大小: 329858 字节, MD5: 52cc67829bde204535aa9361f4154225)
+        文件: query5.ans (大小: 8743 字节, MD5: 4bcf154b32a3b41fd8e4aa7a9dfec6fd)
+        文件: query5.in (大小: 321929 字节, MD5: bf6eb0342eed0bb3214da20973c15c1f)
+        文件: query6.ans (大小: 6656 字节, MD5: a865acfd26cbdb6e9af335f333201f14)
+        文件: query6.in (大小: 323800 字节, MD5: 771a7b564fc74c4257f09a02dbcf3c4f)
+        文件: query7.ans (大小: 13336 字节, MD5: 1d5ec41fa57aab7e8f6f819f72b5efc1)
+        文件: query7.in (大小: 331792 字节, MD5: c400297f2f51411d233fd313c7a9745a)
+        文件: query8.ans (大小: 15627 字节, MD5: 1b5235afcf238f5c25a6080f0be8222d)
+        文件: query8.in (大小: 325965 字节, MD5: 59a8928be1029170e38fece648c6f517)
+    目录: ./answers\TJ-0045\sale
+        文件: sale (大小: 101848 字节, MD5: a11c05812b535d216135f95834f7ce92)
+        文件: sale.cpp (大小: 2813 字节, MD5: db7e30afab4de9168ea1b7eeb7faf008)
+        文件: sale.exe (大小: 2069341 字节, MD5: 78f6fa729bf474912feae2e83c11b8b9)
+        文件: sale.o (大小: 218688 字节, MD5: c8384c57fb1446833062d6770e751252)
+        文件: sale1.ans (大小: 2 字节, MD5: 9ae0ea9e3c9c6e1b9b6252c8395efdc1)
+        文件: sale1.in (大小: 14 字节, MD5: 11fba08df93afc1d4d109b71bdb84b31)
+        文件: sale10.ans (大小: 1294 字节, MD5: 7d126fa3d7766736ede9a9b3f5bffd4f)
+        文件: sale10.in (大小: 100192 字节, MD5: d63c097d37e8d7ee4ebf46776f61eaae)
+        文件: sale11.ans (大小: 2047 字节, MD5: cde22352c62e126a4df7b8ad75d75daa)
+        文件: sale11.in (大小: 498186 字节, MD5: f25b9ea1bd1b2ee9d2e19847e758dc3a)
+        文件: sale2.ans (大小: 3000 字节, MD5: 28ad2c962e3cebe063d22d2804db2925)
+        文件: sale2.in (大小: 53473 字节, MD5: 71b11ac0a16057a0aa5d519d20348744)
+        文件: sale3.ans (大小: 2169 字节, MD5: 8eeb59822dced7da521ce22435660a53)
+        文件: sale3.in (大小: 52523 字节, MD5: 23175b73a0d68ed85b4177a10b95006f)
+        文件: sale4.ans (大小: 893 字节, MD5: 064f14cc22477018437529bac643cc34)
+        文件: sale4.in (大小: 50266 字节, MD5: c5796f8c0fc756cd1787023b66a010de)
+        文件: sale5.ans (大小: 831 字节, MD5: 336862afa643d78e4aa795c9d98f324e)
+        文件: sale5.in (大小: 50667 字节, MD5: 96241479985bf3581ed68bd7947cdf72)
+        文件: sale6.ans (大小: 837 字节, MD5: 81d7921fe203e5c389c282ff6784dee7)
+        文件: sale6.in (大小: 50366 字节, MD5: c91aa61e58597ae461584b850a6625ca)
+        文件: sale7.ans (大小: 1290 字节, MD5: b253a360cbab60c41b310f0686c6f485)
+        文件: sale7.in (大小: 100102 字节, MD5: b4b483af46c6dc18877aef8bdb6477e3)
+        文件: sale8.ans (大小: 1295 字节, MD5: e9e5c87d44461ee984d78b654523ac5c)
+        文件: sale8.in (大小: 99594 字节, MD5: ef879ebce23c3c5b45d8c26a126a1280)
+        文件: sale9.ans (大小: 1287 字节, MD5: b925f23b08a7764ed46d439f4e9330c6)
+        文件: sale9.in (大小: 100784 字节, MD5: fe7cb95a375d4e39fdcd4d70810eaf6b)
+        文件: salel (大小: 28528 字节, MD5: 67bdff317103a185dd84fe905cadb3e0)
+        文件: salele (大小: 537568 字节, MD5: 8e2b1e1e74db8694d0446b4b296da65c)
+    目录: ./answers\TJ-0045\tree
+        文件: a.out (大小: 18368 字节, MD5: db7261fb286799bdef5bd0b1c10ab075)
+        文件: tree (大小: 35272 字节, MD5: 3a6e644d058e60e8e4f78d595497bdf3)
+        文件: tree.cpp (大小: 2148 字节, MD5: d7d1dd72d06c9e5ed993287a5c1354d5)
+        文件: tree.exe (大小: 1952028 字节, MD5: 6f6a7117f948d44e69f4ac2dcaf9d31f)
+        文件: tree.o (大小: 49984 字节, MD5: c1654872bd6934f20d45f8bf61a5802b)
+        文件: tree.out (大小: 44104 字节, MD5: eed56b44bc3e591d7a4e4c320675587b)
+        文件: tree1.ans (大小: 5 字节, MD5: fa10546ac4464ddc33844e0ba294c1ac)
+        文件: tree1.in (大小: 30 字节, MD5: 88f1e7ac5d9b784b7d3f53932830b238)
+        文件: tree2.ans (大小: 15 字节, MD5: 777af47c6673efad3fc92e0909c3db44)
+        文件: tree2.in (大小: 158 字节, MD5: d6728106f55142eaefac99bd57da1344)
+        文件: tree3.ans (大小: 20 字节, MD5: bc94d3e5b42e870f75d019093683ea5b)
+        文件: tree3.in (大小: 542 字节, MD5: 8dc19578b0bccd41261037d9c1b9fda4)
+        文件: tree4.ans (大小: 25 字节, MD5: ade17fc1a28f3c82537e1b6feae05904)
+        文件: tree4.in (大小: 72574 字节, MD5: 4d2f848d61743e3c6b2801cbd2b7d272)
+        文件: tree5.ans (大小: 30 字节, MD5: b27dcdc6ce433e6a75ee4068ba1244ba)
+        文件: tree5.in (大小: 93840 字节, MD5: e36833fbc5ce6deb927a87a77e61c6c7)
+目录: ./answers\TJ-0046
+    目录: ./answers\TJ-0046\candy
+        文件: candy.cpp (大小: 914 字节, MD5: 7478152f2f6eb6bfc06066fb16b0ebe4)
+        文件: candy.exe (大小: 1944692 字节, MD5: dd5e6cebf683e7aca605151bb8525db2)
+        文件: candy.in (大小: 2078009 字节, MD5: 7d8c4f777118ed6008c9e440bcafac96)
+        文件: candy.out (大小: 6 字节, MD5: 791f14677dc1044cba682ad9da34ea99)
+    目录: ./answers\TJ-0046\query
+        文件: query.cpp (大小: 150 字节, MD5: 82c6498e633f2a8a646f6793294bfdc0)
+    目录: ./answers\TJ-0046\sale
+        文件: sale.cpp (大小: 1270 字节, MD5: 4053897f22a7c6bfb1cd571aad31b634)
+        文件: sale.exe (大小: 1944701 字节, MD5: c2d52ea3131bebb8edac3b86e5eb94f9)
+        文件: sale.in (大小: 55476 字节, MD5: f8a4c973de12ea9d7bd55c5998f0d2f6)
+        文件: sale.out (大小: 4000 字节, MD5: 924a387ae44cd6d5574f3fe1a1521960)
+    目录: ./answers\TJ-0046\tree
+        文件: tree.cpp (大小: 449 字节, MD5: 3e5b0e6ecae38bbb49886f2040ac7637)
+目录: ./answers\TJ-0047
+    目录: ./answers\TJ-0047\candy
+        文件: candy.cpp (大小: 1108 字节, MD5: 6f7423984a987e6a788029aa1b359e90)
+    目录: ./answers\TJ-0047\query
+        文件: query.cpp (大小: 978 字节, MD5: 4cb4df5981b54e9ca6c1438b7bed86cd)
+    目录: ./answers\TJ-0047\sale
+        文件: sale.cpp (大小: 1887 字节, MD5: 8266f5a83e6600b7de7c635363375f25)
+    目录: ./answers\TJ-0047\tree
+        文件: tree.cpp (大小: 1920 字节, MD5: f233b76a58fc6e52cee0c68973996e73)
+目录: ./answers\TJ-0048
+    目录: ./answers\TJ-0048\candy
+        文件: candy.cpp (大小: 949 字节, MD5: 228ee2f1eb39490908b0dd6f473642bf)
+    目录: ./answers\TJ-0048\query
+        文件: query.cpp (大小: 708 字节, MD5: f7bafaa69dca54c1df3e3bda88cb5346)
+    目录: ./answers\TJ-0048\sale
+        文件: sale.cpp (大小: 1628 字节, MD5: e5b0089893d80d7337915284d7dac7f3)
+    目录: ./answers\TJ-0048\tree
+        文件: tree.cpp (大小: 1572 字节, MD5: cce1fa016866bae45b70286d29a4b81f)
+目录: ./answers\TJ-0049
+    目录: ./answers\TJ-0049\candy
+        文件: candy.cpp (大小: 2520 字节, MD5: d7ba1e842510ee99179c7213908cebd6)
+    目录: ./answers\TJ-0049\query
+        文件: query.cpp (大小: 1920 字节, MD5: d27dabf508afacec3bde9e9e1a084d3f)
+    目录: ./answers\TJ-0049\sale
+        文件: sale.cpp (大小: 2977 字节, MD5: f096fec6a8ec970ddcff017653a76a59)
+    目录: ./answers\TJ-0049\tree
+        文件: tree.cpp (大小: 2696 字节, MD5: ef5eeae101f542e17dd3b7d26176356b)
+目录: ./answers\TJ-0050
+    目录: ./answers\TJ-0050\candy
+        文件: candy.cpp (大小: 760 字节, MD5: 361e0147a1c66aa79e8d659f2e55f38b)
+    目录: ./answers\TJ-0050\query
+        文件: query.cpp (大小: 1031 字节, MD5: c87826aa041bf7f0b20f42fbc527bf33)
+    目录: ./answers\TJ-0050\sale
+        文件: sale.cpp (大小: 814 字节, MD5: 0b9d9259b3dd0fcca442c8e980244e84)
+    目录: ./answers\TJ-0050\tree
+        文件: tree.cpp (大小: 1499 字节, MD5: 5a586c7476281ebc6c84ca61f1ea2a25)
+目录: ./answers\TJ-0051
+    目录: ./answers\TJ-0051\candy
+        文件: candy.cpp (大小: 1160 字节, MD5: 0023afc31db42f8953881a91704dab1d)
+    目录: ./answers\TJ-0051\query
+        文件: query.cpp (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0051\sale
+        文件: sale.cpp (大小: 123 字节, MD5: 08b7a975d0e5f468244be1dd5d0f6722)
+    目录: ./answers\TJ-0051\tree
+        文件: tree.cpp (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+目录: ./answers\TJ-0052
+    目录: ./answers\TJ-0052\candy
+        文件: candy.cpp (大小: 2594 字节, MD5: 7b063ea501aba74d44592d5e00666468)
+    目录: ./answers\TJ-0052\sale
+        文件: sale.cpp (大小: 1813 字节, MD5: 5cdc771be144c00b8ede34f3544e7929)
+    目录: ./answers\TJ-0052\tree
+        文件: tree.cpp (大小: 1437 字节, MD5: a0146e5c058bfa84f93a254b12a85578)
+目录: ./answers\TJ-0053
+    目录: ./answers\TJ-0053\candy
+        文件: candy.cpp (大小: 1362 字节, MD5: 29a611dec94281d522ce5940942f7834)
+    目录: ./answers\TJ-0053\query
+        文件: query.cpp (大小: 472 字节, MD5: d327078f6afdc4b5b6480b62dafd8922)
+    目录: ./answers\TJ-0053\sale
+        文件: sale.cpp (大小: 744 字节, MD5: d8958287679e5866ec1249ee1d9ed033)
+    目录: ./answers\TJ-0053\tree
+        文件: tree.cpp (大小: 453 字节, MD5: 976358c4bd09fea778dd5c308dd210ca)
+目录: ./answers\TJ-0054
+    目录: ./answers\TJ-0054\candy
+        文件: candy.cpp (大小: 1964 字节, MD5: 78e96addc15583fe98057eb809e24ec2)
+    目录: ./answers\TJ-0054\query
+        文件: query.cpp (大小: 2227 字节, MD5: 92e0d713af35efa0f2938fea4788edd8)
+    目录: ./answers\TJ-0054\sale
+        文件: sale.cpp (大小: 1856 字节, MD5: 69e0700eb377da6cee2fddd20cff6dd3)
+    目录: ./answers\TJ-0054\tree
+        文件: tree.cpp (大小: 1254 字节, MD5: f0a8258d679ae030f9ad9febb4939005)
+目录: ./answers\TJ-0055
+    目录: ./answers\TJ-0055\candy
+        文件: candy.cpp (大小: 1016 字节, MD5: 3e46a9b00560b4d307ef44438cb56b29)
+    目录 (无文件): ./answers\TJ-0055\query
+    目录: ./answers\TJ-0055\sale
+        文件: sale.cpp (大小: 1458 字节, MD5: 73acd3f1f27e8f9c17cfa3f95e84c384)
+    目录 (无文件): ./answers\TJ-0055\tree
+目录: ./answers\TJ-0056
+    目录: ./answers\TJ-0056\candy
+        文件: candy.cpp (大小: 1203 字节, MD5: 0a63b09cf7e8d9b91a549e55efdd6988)
+        文件: candy.exe (大小: 1945242 字节, MD5: 2753540baf2be677ad8fdcbf2916f09b)
+    目录: ./answers\TJ-0056\query
+        文件: query.cpp (大小: 143 字节, MD5: f02e82e8ec9286b609bafd2954c08e5c)
+        文件: query.exe (大小: 1921611 字节, MD5: 6dcecedd08322bd0b1ddae856d59f902)
+    目录: ./answers\TJ-0056\sale
+        文件: sale.cpp (大小: 1604 字节, MD5: e2841c699258b2075b815d5f54c65f94)
+        文件: sale.exe (大小: 1968731 字节, MD5: 737e9376d9a8b5a27f08f94673a7bc5d)
+    目录: ./answers\TJ-0056\tree
+        文件: tree.cpp (大小: 141 字节, MD5: 7c87c25b9994f21057705a1067cd171c)
+        文件: tree.exe (大小: 1921611 字节, MD5: ce9c17aaca40627ef03dd84dd55aee72)
+目录: ./answers\TJ-0057
+    目录: ./answers\TJ-0057\candy
+        文件: candy.cpp (大小: 875 字节, MD5: 7297ea93d0010a8ddef3cba47b022890)
+    目录: ./answers\TJ-0057\query
+        文件: query.cpp (大小: 306 字节, MD5: 7abbea3158b23584f80a372e723c68c8)
+    目录: ./answers\TJ-0057\sale
+        文件: sale.cpp (大小: 1547 字节, MD5: 192bef4d511756c795335be0cfcd3556)
+    目录: ./answers\TJ-0057\tree
+        文件: tree.cpp (大小: 314 字节, MD5: cb034a3b1f2107ba8ec0ccc7eaac2daa)
+目录: ./answers\TJ-0058
+    目录: ./answers\TJ-0058\candy
+        文件: candy.cpp (大小: 1137 字节, MD5: 1315ed235ed020ce7a08efb0d0ace58d)
+    目录: ./answers\TJ-0058\query
+        文件: query.cpp (大小: 242 字节, MD5: ca141951df4a338a3233668917cde1c1)
+    目录: ./answers\TJ-0058\sale
+        文件: sale.cpp (大小: 264 字节, MD5: 93055e1ff7d92cc64fb1ce5181f3c20c)
+    目录: ./answers\TJ-0058\tree
+        文件: tree.cpp (大小: 149 字节, MD5: ee35eb60612ecd734338517bbac512ac)
+目录: ./answers\TJ-0059
+    目录: ./answers\TJ-0059\candy
+        文件: candy.cpp (大小: 908 字节, MD5: ba3222ca03a096fa5a267ba65a2ec60a)
+    目录: ./answers\TJ-0059\query
+        文件: query.cpp (大小: 165 字节, MD5: 65c30589b34f71741b010a81eebfdecd)
+    目录: ./answers\TJ-0059\sale
+        文件: sale.cpp (大小: 838 字节, MD5: 68b08b08a6caa2d59c8dc8f15d7b1bdb)
+    目录: ./answers\TJ-0059\tree
+        文件: tree.cpp (大小: 922 字节, MD5: 65eddbb45042aadb8536e3a31d1a33bc)
+目录: ./answers\TJ-0060
+    目录: ./answers\TJ-0060\candy
+        文件: candy.cpp (大小: 838 字节, MD5: 595ac371b8fbe58c66aa11285a43998e)
+    目录: ./answers\TJ-0060\query
+        文件: query.cpp (大小: 246 字节, MD5: aee0130f7c22f7c53c550cbd995d7f53)
+    目录: ./answers\TJ-0060\sale
+        文件: sale.cpp (大小: 1391 字节, MD5: b1fb3c9e7994c6318d2ae629a97beb4d)
+    目录: ./answers\TJ-0060\tree
+        文件: tree.cpp (大小: 246 字节, MD5: aee0130f7c22f7c53c550cbd995d7f53)
+目录: ./answers\TJ-0061
+    目录: ./answers\TJ-0061\candy
+        文件: candy.cpp (大小: 912 字节, MD5: b39ed9ac107e9472c0b2b7881c9cf254)
+    目录: ./answers\TJ-0061\query
+        文件: query.cpp (大小: 639 字节, MD5: 25741d10de08ca89522e8888f48f562d)
+    目录: ./answers\TJ-0061\sale
+        文件: sale.cpp (大小: 244 字节, MD5: 7bfaac8cf72e8cdfb69a03b7ff478a2c)
+    目录: ./answers\TJ-0061\tree
+        文件: tree.cpp (大小: 1365 字节, MD5: ae4164e6748b57ff9877a9d2acd69775)
+目录: ./answers\TJ-0062
+    目录: ./answers\TJ-0062\candy
+        文件: candy.cpp (大小: 2799 字节, MD5: e8435fa51c3f059e9bc9d6e8652f4c8d)
+    目录: ./answers\TJ-0062\query
+        文件: query.cpp (大小: 191 字节, MD5: 96d2f1466c6e9b6b85b45ee439ff9af3)
+    目录: ./answers\TJ-0062\sale
+        文件: sale.cpp (大小: 1628 字节, MD5: a50fc4c4b88c120432cc2301aa680c81)
+    目录: ./answers\TJ-0062\tree
+        文件: tree.cpp (大小: 1672 字节, MD5: 7170b0d50742b5f3c7d96e7bcd55185a)
+目录: ./answers\TJ-0063
+    目录: ./answers\TJ-0063\candy
+        文件: candy.cpp (大小: 824 字节, MD5: f0806927ebf821b94885f31b3a2b8b16)
+    目录: ./answers\TJ-0063\query
+        文件: query.cpp (大小: 1985 字节, MD5: 605f1f7c2767f1ee1f55c0c3f41cca96)
+    目录: ./answers\TJ-0063\sale
+        文件: sale.cpp (大小: 209 字节, MD5: abd3489718aba57972d3ce15de42cfd1)
+    目录: ./answers\TJ-0063\tree
+        文件: tree.cpp (大小: 209 字节, MD5: 9a86cb87ed2a40c3ad1017b771676b37)
+目录: ./answers\TJ-0064
+    目录: ./answers\TJ-0064\candy
+        文件: candy.cpp (大小: 2463 字节, MD5: da86a4bf00387bcef2177e9d83d31ba9)
+    目录: ./answers\TJ-0064\query
+        文件: query.cpp (大小: 1426 字节, MD5: f4b07533d467d897d55dda8fa9372117)
+    目录: ./answers\TJ-0064\sale
+        文件: sale.cpp (大小: 665 字节, MD5: 667a8da15d4b97e37fc011cb4818ffc0)
+    目录 (无文件): ./answers\TJ-0064\tree
+目录: ./answers\TJ-0065
+    目录: ./answers\TJ-0065\candy
+        文件: candy.cpp (大小: 2625 字节, MD5: d3eea3877b609e498c254c445b3104d4)
+    目录: ./answers\TJ-0065\query
+        文件: query.cpp (大小: 271 字节, MD5: f38c6567aa42c0ce72c61d4d94f81c93)
+    目录: ./answers\TJ-0065\sale
+        文件: sale.cpp (大小: 635 字节, MD5: cc8330b2ad27cb8d9794610f4288b912)
+    目录: ./answers\TJ-0065\tree
+        文件: tree.cpp (大小: 265 字节, MD5: 6b8033b0a83b7a028c042c84b4bc6464)
+目录: ./answers\TJ-0066
+    目录: ./answers\TJ-0066\candy
+        文件: candy.cpp (大小: 1562 字节, MD5: 74c670b7d9c310e1459df61d34d0979c)
+    目录: ./answers\TJ-0066\query
+        文件: query.cpp (大小: 1132 字节, MD5: e9f1abf02e1b329a870c3f3ddf5cb9d6)
+    目录: ./answers\TJ-0066\sale
+        文件: sale.cpp (大小: 12027 字节, MD5: c6f41c8fec8a34679a92ab0c7499362e)
+    目录: ./answers\TJ-0066\tree
+        文件: tree.cpp (大小: 2678 字节, MD5: 54682a6de286a171478c68abab5f91d6)
+目录: ./answers\TJ-0067
+    目录: ./answers\TJ-0067\candy
+        文件: candy.cpp (大小: 869 字节, MD5: 8c3f5e9c17a2451763f6774bfcc3b252)
+    目录: ./answers\TJ-0067\query
+        文件: query.cpp (大小: 746 字节, MD5: 246d8ff1bfbc3edb304c341f9231c48f)
+    目录: ./answers\TJ-0067\sale
+        文件: sale.cpp (大小: 1429 字节, MD5: e4158521a89efcf6724ccfc065371b92)
+    目录 (无文件): ./answers\TJ-0067\tree
+目录: ./answers\TJ-0068
+    目录: ./answers\TJ-0068\candy
+        文件: candy.cpp (大小: 1687 字节, MD5: 50915d2a047a8383a8c70077cc4e8df6)
+    目录: ./answers\TJ-0068\query
+        文件: query.cpp (大小: 1039 字节, MD5: bda840d95d261e82889c495f32515449)
+    目录: ./answers\TJ-0068\sale
+        文件: sale.cpp (大小: 2070 字节, MD5: 26da2162a0d0879ad32221efe77df18d)
+    目录: ./answers\TJ-0068\tree
+        文件: tree.cpp (大小: 137 字节, MD5: 4995d1460f5bc8f2f842afffc395354e)
+目录: ./answers\TJ-0069
+    目录: ./answers\TJ-0069\candy
+        文件: candy.cpp (大小: 1121 字节, MD5: 7c0ed1c1773c3eb4dd692384acfdebcf)
+    目录: ./answers\TJ-0069\query
+        文件: query.cpp (大小: 393 字节, MD5: 5f7f8155ab3b7ba8458552af44fd8273)
+    目录: ./answers\TJ-0069\sale
+        文件: sale.cpp (大小: 1412 字节, MD5: b6261adad9d58c66b9ef387079dd6ae9)
+    目录: ./answers\TJ-0069\tree
+        文件: tree.cpp (大小: 1335 字节, MD5: 5c506f8721a8a9d6af5ad1ce848dea7e)
+目录: ./answers\TJ-0070
+    目录: ./answers\TJ-0070\candy
+        文件: candy.cpp (大小: 2253 字节, MD5: 13bf5993ed19eac24aec1be0d23ad498)
+    目录 (无文件): ./answers\TJ-0070\query
+    目录: ./answers\TJ-0070\sale
+        文件: sale.cpp (大小: 1571 字节, MD5: 292d9dd270388a053cabd6d762f308c7)
+    目录 (无文件): ./answers\TJ-0070\tree
+目录: ./answers\TJ-0071
+    目录: ./answers\TJ-0071\candy
+        文件: candy.cpp (大小: 1417 字节, MD5: f4acf5389800c177eb1877f62ba68b60)
+    目录: ./answers\TJ-0071\query
+        文件: query.cpp (大小: 261 字节, MD5: 47d84517a15ad0002beed7abe3e3e36f)
+    目录: ./answers\TJ-0071\sale
+        文件: sale.cpp (大小: 1341 字节, MD5: 834c3c54ca410d86a92b7353e923f3a6)
+    目录: ./answers\TJ-0071\tree
+        文件: tree.cpp (大小: 209 字节, MD5: b8df227f9b60b1a18e4d9c46c63fa0d7)
+目录: ./answers\TJ-0072
+    目录: ./answers\TJ-0072\candy
+        文件: candy.cpp (大小: 2067 字节, MD5: 7bca0d54ca49545130013c669435f0fd)
+    目录: ./answers\TJ-0072\query
+        文件: query.cpp (大小: 361 字节, MD5: 77e366e00129bdf6e078314dfe7663ca)
+    目录: ./answers\TJ-0072\sale
+        文件: sale.cpp (大小: 1677 字节, MD5: 3aa85e1a8080119dea021436785a9ba5)
+    目录: ./answers\TJ-0072\tree
+        文件: tree.cpp (大小: 436 字节, MD5: 6f591c03d0b5e766bceff0bc9d88b979)
+目录: ./answers\TJ-0073
+    目录: ./answers\TJ-0073\candy
+        文件: candy.cpp (大小: 1945 字节, MD5: 8e4814b37e9e965d6dfcf0f62c5d7532)
+    目录: ./answers\TJ-0073\query
+        文件: query.cpp (大小: 619 字节, MD5: d9535a781a1fc8a1cf386bc91ee366fc)
+    目录: ./answers\TJ-0073\sale
+        文件: sale.cpp (大小: 1301 字节, MD5: 91a19a89d9c7a498c19dce0f753ec18f)
+    目录: ./answers\TJ-0073\tree
+        文件: tree.cpp (大小: 617 字节, MD5: 29ab5eb4d33089e5da16f190747a0e9f)
+目录: ./answers\TJ-0074
+    目录: ./answers\TJ-0074\candy
+        文件: candy.cpp (大小: 1060 字节, MD5: 4d2bec9eda3ee483bbc25a31870ae22f)
+    目录 (无文件): ./answers\TJ-0074\query
+    目录: ./answers\TJ-0074\sale
+        文件: sale.cpp (大小: 1107 字节, MD5: 6eead4960bd24975ec847d86436744a3)
+    目录 (无文件): ./answers\TJ-0074\tree
+目录: ./answers\TJ-0075
+    目录: ./answers\TJ-0075\candy
+        文件: candy.cpp (大小: 932 字节, MD5: 1dfbce4f80c09fc772bca70501e1c125)
+    目录: ./answers\TJ-0075\query
+        文件: query.cpp (大小: 165 字节, MD5: 64b29db5e0fa8f44d35c2eeb47f3dbf6)
+    目录: ./answers\TJ-0075\sale
+        文件: sale.cpp (大小: 424 字节, MD5: b3ca350375330f517d49404b7c32f411)
+    目录: ./answers\TJ-0075\tree
+        文件: tree.cpp (大小: 161 字节, MD5: 404dc9a0e131e81f974cb425eb89c222)
+目录: ./answers\TJ-0076
+    目录: ./answers\TJ-0076\candy
+        文件: candy.cpp (大小: 723 字节, MD5: 08df98c5d055110aae9b2c503ff1d626)
+    目录: ./answers\TJ-0076\query
+        文件: query.cpp (大小: 242 字节, MD5: 1cf440809580fe102570d11affb82835)
+    目录: ./answers\TJ-0076\sale
+        文件: sale.cpp (大小: 1051 字节, MD5: 6a9c1f5c5323d1b401016f0f9dacbfb4)
+    目录: ./answers\TJ-0076\tree
+        文件: tree.cpp (大小: 175 字节, MD5: 23a99721a4080aef2bd95eda189e8bee)
+目录: ./answers\TJ-0077
+    目录: ./answers\TJ-0077\candy
+        文件: candy.cpp (大小: 1169 字节, MD5: 0eb67d83db8491be4c20487b33309c55)
+    目录: ./answers\TJ-0077\query
+        文件: query.cpp (大小: 279 字节, MD5: faac37b3d6ab648eb79973bc9b98bdbc)
+    目录: ./answers\TJ-0077\sale
+        文件: sale.cpp (大小: 1586 字节, MD5: c3c06a8e95bb4515700491126174dec6)
+    目录: ./answers\TJ-0077\tree
+        文件: tree.cpp (大小: 277 字节, MD5: 239f6b0e9332688554286bb9b42b070c)
+目录: ./answers\TJ-0078
+    目录: ./answers\TJ-0078\candy
+        文件: candy.cpp (大小: 1447 字节, MD5: b9f11f17412542510ca30491e3769962)
+    目录: ./answers\TJ-0078\query
+        文件: query.cpp (大小: 262 字节, MD5: 687bde4beb246a1ebcf4526d76c3036d)
+    目录: ./answers\TJ-0078\sale
+        文件: sale.cpp (大小: 443 字节, MD5: 9fcf4c5e620deee3e8c030d6620597b3)
+    目录: ./answers\TJ-0078\tree
+        文件: tree.cpp (大小: 353 字节, MD5: 645fd7a9b38a5b8eb1aa9d174814e7a8)
+目录: ./answers\TJ-0079
+    目录: ./answers\TJ-0079\candy
+        文件: candy.cpp (大小: 513 字节, MD5: f34e6c046ae35c557828036976986672)
+        文件: candy.exe (大小: 1939740 字节, MD5: 4055006c53add9db724eb717aedaf6f4)
+        文件: candy.in (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: candy.out (大小: 4 字节, MD5: 74720289265735efb75e79093dc26683)
+    目录 (无文件): ./answers\TJ-0079\query
+    目录 (无文件): ./answers\TJ-0079\sale
+    目录 (无文件): ./answers\TJ-0079\tree
+目录: ./answers\TJ-0080
+    目录: ./answers\TJ-0080\candy
+        文件: candy.cpp (大小: 648 字节, MD5: 876cc7cae8ad755bd71f4ab8ef29e765)
+    目录: ./answers\TJ-0080\query
+        文件: query.cpp (大小: 339 字节, MD5: 9ad20e9b80a6e7405d4f479cf48d00f7)
+    目录: ./answers\TJ-0080\sale
+        文件: sale.cpp (大小: 970 字节, MD5: 58a09981cf6c79ad7edea02bba681f2a)
+    目录: ./answers\TJ-0080\tree
+        文件: tree.cpp (大小: 351 字节, MD5: 412311c8615dc850eb3fd59ff6eb25fa)
+目录: ./answers\TJ-0081
+    目录: ./answers\TJ-0081\candy
+        文件: candy.cpp (大小: 777 字节, MD5: 4d6bf1f9c969d87a4dc306021e3dbf7b)
+    目录: ./answers\TJ-0081\query
+        文件: query.cpp (大小: 342 字节, MD5: deba3defb1bab4f698685a7a4343ddb5)
+    目录: ./answers\TJ-0081\sale
+        文件: sale.cpp (大小: 864 字节, MD5: 6e286dc06e207e94a557b66a7ea0baf5)
+    目录: ./answers\TJ-0081\tree
+        文件: tree.cpp (大小: 326 字节, MD5: f932bbe2f76d8b9e9d869011c7453922)
+目录: ./answers\TJ-0082
+    目录: ./answers\TJ-0082\candy
+        文件: candy.cpp (大小: 828 字节, MD5: d9c92d5bfd2ddfdaccc3fae1b05ef609)
+    目录: ./answers\TJ-0082\query
+        文件: query.cpp (大小: 230 字节, MD5: 6c8b2b1da13800931d6a65c747124f50)
+    目录: ./answers\TJ-0082\sale
+        文件: sale.cpp (大小: 18428 字节, MD5: f311945a2766ca76239e3c64abd3f726)
+    目录: ./answers\TJ-0082\tree
+        文件: tree.cpp (大小: 226 字节, MD5: bc9703ffc57607a6520330adbd33421b)
+目录: ./answers\TJ-0083
+    目录: ./answers\TJ-0083\candy
+        文件: candy.cpp (大小: 765 字节, MD5: ac332a6ef01c49b9f65050b7a53df428)
+        文件: candy.exe (大小: 1945222 字节, MD5: 2011a1514a58c9b3bb2ff39d48b574e8)
+        文件: candy.in (大小: 20 字节, MD5: 79afec9dc08ba1b516713fbf8b5f9552)
+        文件: candy.out (大小: 3 字节, MD5: 844afd44ff5361df28129df1e3ef8915)
+    目录: ./answers\TJ-0083\sale
+        文件: sale.cpp (大小: 1159 字节, MD5: f8e84ffb7c2c4422b23f76850a991705)
+        文件: sale.exe (大小: 1945145 字节, MD5: 8ed4dbb414ec39f4b9269b020fe28226)
+        文件: sale.in (大小: 16 字节, MD5: d4b5961f74ef8aee409aac26aeb5edd4)
+        文件: sale.out (大小: 1 字节, MD5: c9f0f895fb98ab9159f51fd0297e236d)
+    目录: ./answers\TJ-0083\tree
+        文件: tree.cpp (大小: 534 字节, MD5: 8ab2a82cc9e2de070b9050e693c672e1)
+        文件: tree.exe (大小: 1978032 字节, MD5: 401570bfa9e1f8850f3b0aee09264bff)
+        文件: tree.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+目录: ./answers\TJ-0084
+    目录: ./answers\TJ-0084\candy
+        文件: candy.cpp (大小: 480 字节, MD5: 418ab41b557a65b8f4edafca578ae080)
+        文件: candy.exe (大小: 1921078 字节, MD5: 8e2cfe5ce443e3492b92e17f9162d6e4)
+    目录: ./answers\TJ-0084\query
+        文件: query.cpp (大小: 247 字节, MD5: 59cb0bd9b65573f8e091c823ff3a054b)
+    目录: ./answers\TJ-0084\sale
+        文件: sale.cpp (大小: 211 字节, MD5: c76633cde2ac3a78153f3ed2bc3f5f5f)
+    目录: ./answers\TJ-0084\tree
+        文件: tree.cpp (大小: 199 字节, MD5: 53c2e8d656a267fa8a871f52904ae385)
+目录: ./answers\TJ-0085
+    目录: ./answers\TJ-0085\candy
+        文件: candy.cpp (大小: 1378 字节, MD5: 31e9dc9643a5163aea7420c5134dc337)
+    目录 (无文件): ./answers\TJ-0085\query
+    目录: ./answers\TJ-0085\sale
+        文件: sale.cpp (大小: 655 字节, MD5: 7fc3cdabaf63c759d1fc8429953d6cf4)
+    目录: ./answers\TJ-0085\tree
+        文件: tree.cpp (大小: 1563 字节, MD5: dfd0d3c7166a9daac368220819e7997a)
+目录: ./answers\TJ-0086
+    目录: ./answers\TJ-0086\candy
+        文件: candy.cpp (大小: 1177 字节, MD5: f00bc39217de214b6d0f44e0e34a639b)
+        文件: candy.exe (大小: 1923771 字节, MD5: 8169484fee3192f2c3f2c8499280c34a)
+        文件: candy.in (大小: 52 字节, MD5: e7af751a454a71606e9bf71f0b2eb430)
+        文件: candy.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0086\query
+        文件: query.cpp (大小: 237 字节, MD5: 6b36f5b11ca99d0fcc4b1f7d90fa2b11)
+        文件: query.exe (大小: 1922229 字节, MD5: 1ea7f4a04b8eb4a2fe57df5ffcf25bfc)
+        文件: query.in (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: query.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0086\sale
+        文件: sale.cpp (大小: 1333 字节, MD5: d6b60ed342c7499947904c60ee269fdd)
+        文件: sale.exe (大小: 1923594 字节, MD5: 006bdafb46c698d88a12620bed3e32c0)
+        文件: sale.in (大小: 4127 字节, MD5: 5b73c6b48186f5400a199ef2f9fcc750)
+        文件: sale.out (大小: 81 字节, MD5: a1e47432bf4f7677b32616ba10e37fbc)
+    目录: ./answers\TJ-0086\tree
+        文件: tree.cpp (大小: 647 字节, MD5: 683b3848e7b6374d64d3533ad7ebb946)
+        文件: tree.exe (大小: 1921987 字节, MD5: 39b94d7cbb1845b3ddabd504f52cfcd5)
+        文件: tree.in (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: tree.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+目录: ./answers\TJ-0087
+    目录: ./answers\TJ-0087\candy
+        文件: candy.cpp (大小: 1152 字节, MD5: 30173f3d29fa90e87a81212a11ca286b)
+    目录: ./answers\TJ-0087\query
+        文件: query.cpp (大小: 271 字节, MD5: c1ae5dcff4008439ec5ac30b9bb2444c)
+    目录: ./answers\TJ-0087\sale
+        文件: sale.cpp (大小: 1531 字节, MD5: a4be59a83abd4a63dac8d3bf6ba1e81d)
+    目录: ./answers\TJ-0087\tree
+        文件: tree.cpp (大小: 370 字节, MD5: 3550d0e6c2f382781e34f40cbc82cca7)
+目录: ./answers\TJ-0088
+    目录: ./answers\TJ-0088\candy
+        文件: candy.cpp (大小: 807 字节, MD5: e3c2a908747fc136ec1a8b161b89f9d1)
+    目录 (无文件): ./answers\TJ-0088\query
+    目录: ./answers\TJ-0088\sale
+        文件: sale.cpp (大小: 1063 字节, MD5: c95a3c5ca717be859f9ff092335c6df1)
+    目录 (无文件): ./answers\TJ-0088\tree
+目录: ./answers\TJ-0089
+    目录: ./answers\TJ-0089\candy
+        文件: candy.cpp (大小: 794 字节, MD5: a413fe11ff7e3dc636413ef4ecf81bcf)
+    目录: ./answers\TJ-0089\query
+        文件: query.cpp (大小: 236 字节, MD5: ce44b0687b3638d40c10478c0f24b181)
+    目录: ./answers\TJ-0089\sale
+        文件: sale.cpp (大小: 195 字节, MD5: f1047039121e1c1527ba77c2f561d2fe)
+    目录: ./answers\TJ-0089\tree
+        文件: tree.cpp (大小: 251 字节, MD5: f8c2d94b0806826afb945a06bb1b7cfe)
+目录: ./answers\TJ-0090
+    目录: ./answers\TJ-0090\candy
+        文件: candy.cpp (大小: 1475 字节, MD5: 015318135eb95808ff711a7c617215e3)
+        文件: candy.exe (大小: 2075270 字节, MD5: fb882482ad1c5987684acbff7a1e65c0)
+        文件: candy.in (大小: 10801 字节, MD5: 8a262dc0271417bb58da9e3c7fcf7220)
+        文件: candy.out (大小: 2 字节, MD5: d645920e395fedad7bbbed0eca3fe2e0)
+    目录: ./answers\TJ-0090\query
+        文件: query.cpp (大小: 208 字节, MD5: c4f9661bedbd4e367e849f1ed9faeac2)
+        文件: query.exe (大小: 1949254 字节, MD5: 4411c316162500a38049101702bf70a1)
+        文件: query.in (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: query.out (大小: 2 字节, MD5: 6bb61e3b7bce0931da574d19d1d82c88)
+    目录: ./answers\TJ-0090\sale
+        文件: sale.cpp (大小: 1312 字节, MD5: 34bba03ae92bcae1bae403a63cdce9c2)
+        文件: sale.exe (大小: 2022856 字节, MD5: 89929deaa3fed1a2a36a7a6d102d3c93)
+        文件: sale.in (大小: 19 字节, MD5: 2f9263d60d61feaa13734ba68f6350cf)
+        文件: sale.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0090\tree
+        文件: tree.cpp (大小: 432 字节, MD5: 22f9bb14aa3d3297de40cceee482d0ec)
+        文件: tree.exe (大小: 1998235 字节, MD5: 75f0216045840e0d553b9878ec5f8653)
+        文件: tree.in (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: tree.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+目录: ./answers\TJ-0091
+    目录: ./answers\TJ-0091\candy
+        文件: candy.cpp (大小: 1303 字节, MD5: 4d279f662b6eb24da1b197a18b8dacd0)
+目录: ./answers\TJ-0092
+    目录: ./answers\TJ-0092\candy
+        文件: candy.cpp (大小: 787 字节, MD5: 8a471e5afac8ecc9dfaf23ba4d6a7d1a)
+    目录 (无文件): ./answers\TJ-0092\query
+    目录: ./answers\TJ-0092\sale
+        文件: sale.cpp (大小: 1505 字节, MD5: bab93adec5c361a68a84eaa16a2e7162)
+    目录 (无文件): ./answers\TJ-0092\tree
+目录: ./answers\TJ-0093
+    目录: ./answers\TJ-0093\candy
+        文件: candy.cpp (大小: 1363 字节, MD5: df3b2144423f1d61a1f94650867a9b61)
+    目录: ./answers\TJ-0093\query
+        文件: query.cpp (大小: 1739 字节, MD5: f91ae3ddf9d54f950ecd6cafe17d9382)
+    目录: ./answers\TJ-0093\sale
+        文件: sale.cpp (大小: 1737 字节, MD5: 440e77c39828ef3da2ae70a8cb485730)
+    目录: ./answers\TJ-0093\tree
+        文件: tree.cpp (大小: 1737 字节, MD5: b4774ee879d2c2e16faa255c5d57fd57)
+目录: ./answers\TJ-0094
+    目录: ./answers\TJ-0094\candy
+        文件: candy.cpp (大小: 607 字节, MD5: 9304ced396e9c31178fb24d22464d707)
+        文件: candy.in (大小: 16 字节, MD5: 611c14a345dae792854b8ac1da0490bf)
+        文件: candy.out (大小: 1 字节, MD5: a87ff679a2f3e71d9181a67b7542122c)
+    目录: ./answers\TJ-0094\query
+        文件: query.cpp (大小: 248 字节, MD5: b9ca8e3bea3a9ff1c54ff21361f14418)
+        文件: query.in (大小: 31 字节, MD5: bf9953447198c92e5ea61ba3c93205b8)
+        文件: query.out (大小: 26 字节, MD5: 398d6a43c4b292492d3fe031e939603c)
+    目录: ./answers\TJ-0094\sale
+        文件: sale.cpp (大小: 258 字节, MD5: 1cbd20adc15e40e4aecb1d2bb2ba0cd1)
+        文件: sale.in (大小: 16 字节, MD5: 611c14a345dae792854b8ac1da0490bf)
+        文件: sale.out (大小: 1 字节, MD5: 1679091c5a880faf6fb5e6087eb1b2dc)
+    目录: ./answers\TJ-0094\tree
+        文件: tree.cpp (大小: 699 字节, MD5: 735b851ebe6a43bfac2c8d2272df31a1)
+        文件: tree.in (大小: 553 字节, MD5: 006e20685e62074cd2fc8a441ceed7f3)
+        文件: tree.out (大小: 23 字节, MD5: f757b688675810ae48d6582d3611227c)
+目录: ./answers\TJ-0095
+    目录: ./answers\TJ-0095\candy
+        文件: candy.cpp (大小: 1133 字节, MD5: 68b95e254a94299815d5a1b7f972a809)
+    目录: ./answers\TJ-0095\query
+        文件: query.cpp (大小: 447 字节, MD5: 2d15dd7bbf0105f33c10c10479404161)
+    目录: ./answers\TJ-0095\sale
+        文件: sale.cpp (大小: 582 字节, MD5: 39bf56d600958f1591d4c86306049cec)
+    目录: ./answers\TJ-0095\tree
+        文件: tree.cpp (大小: 501 字节, MD5: de2987bce6610c0a0488d2416c3df474)
+目录: ./answers\TJ-0096
+    目录: ./answers\TJ-0096\candy
+        文件: candy.cpp (大小: 1421 字节, MD5: 227e62eedc9bcfa257af9a875fc2fafb)
+    目录 (无文件): ./answers\TJ-0096\query
+    目录: ./answers\TJ-0096\sale
+        文件: sale.cpp (大小: 608 字节, MD5: b5a080454ee2ff39e415d825b60d3f70)
+    目录: ./answers\TJ-0096\tree
+        文件: tree.cpp (大小: 356 字节, MD5: b3c94c954cd4c01afc55d420927a375d)
+目录: ./answers\TJ-0097
+    目录: ./answers\TJ-0097\candy
+        文件: candy.cpp (大小: 939 字节, MD5: 9c36de305052ae19dc2649315ae6b68b)
+        文件: candy.exe (大小: 2018816 字节, MD5: a69dd70d73df252b696cf8f8bd9a30ff)
+        文件: candy.out (大小: 4 字节, MD5: 235e3ce2a2e86591aa93d92d02d1f10a)
+        文件: candy1.in (大小: 13 字节, MD5: d172161f9b02b40775e04ecefc192ef0)
+        文件: candy2.in (大小: 17 字节, MD5: 8d414fdac6b47bbca322f77629b28f1f)
+        文件: candy3.in (大小: 592 字节, MD5: e797587a6a703bd133187835d5dc81c9)
+        文件: candy4.in (大小: 588 字节, MD5: 0e65ff338c72c021f95bcdbcb462abd0)
+        文件: candy5.in (大小: 9798 字节, MD5: 1a6be53723c813cf60ea61f976e4b333)
+        文件: candy6.in (大小: 9777 字节, MD5: 124e92de53a7d5b152bad98988299fe7)
+        文件: candy7.in (大小: 1978006 字节, MD5: 323f97b94b03256e70c9882f18267281)
+    目录: ./answers\TJ-0097\query
+        文件: query.cpp (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0097\sale
+        文件: sale.cpp (大小: 1667 字节, MD5: 49e1c46fe30e01e1ff7d9662d0873267)
+        文件: sale.exe (大小: 2000734 字节, MD5: ba9bf82f9cdddbd855517742f931d67d)
+        文件: sale.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: sale1.in (大小: 14 字节, MD5: 11fba08df93afc1d4d109b71bdb84b31)
+    目录: ./answers\TJ-0097\tree
+        文件: tree.cpp (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+目录: ./answers\TJ-0098
+    目录: ./answers\TJ-0098\candy
+        文件: candy.cpp (大小: 1199 字节, MD5: 0f93d32d2e78e8a1d55dd93109a0e8aa)
+    目录: ./answers\TJ-0098\query
+        文件: query.cpp (大小: 208 字节, MD5: b1c9ed1fc9b72e2dcd074d8df2d3dada)
+    目录: ./answers\TJ-0098\sale
+        文件: sale.cpp (大小: 372 字节, MD5: 354c637b5d6a0ed889db448240f1d631)
+    目录: ./answers\TJ-0098\tree
+        文件: tree.cpp (大小: 293 字节, MD5: 8c0b2aa4f00d2778efb36285eaefbe8d)
+目录: ./answers\TJ-0099
+    目录: ./answers\TJ-0099\candy
+        文件: candy.cpp (大小: 3273 字节, MD5: eaad5a91d5e95c63a3aa226dd2760d8d)
+    目录: ./answers\TJ-0099\query
+        文件: query.cpp (大小: 242 字节, MD5: d493b1a85c71cc61c1654aabb3de55b0)
+    目录: ./answers\TJ-0099\sale
+        文件: sale.cpp (大小: 220 字节, MD5: 108301665aa90cb1e04704f342b61f62)
+    目录: ./answers\TJ-0099\tree
+        文件: tree.cpp (大小: 220 字节, MD5: 2507bbad42192db67d1c7fe0a8a54bd5)
+目录: ./answers\TJ-0100
+    目录: ./answers\TJ-0100\candy
+        文件: candy.cpp (大小: 1211 字节, MD5: eff958a0c68f998bbb7622b416c969ae)
+    目录: ./answers\TJ-0100\query
+        文件: query.cpp (大小: 190 字节, MD5: d1dfe329dbc1c735c3360a16e19f7a01)
+    目录: ./answers\TJ-0100\sale
+        文件: sale.cpp (大小: 330 字节, MD5: b1ec54c248e025a520e8b7ccba26ad4b)
+    目录: ./answers\TJ-0100\tree
+        文件: tree.cpp (大小: 313 字节, MD5: f1e2d68717e4e25adf4ba43e8c616fb5)
+目录: ./answers\TJ-0101
+    目录: ./answers\TJ-0101\candy
+        文件: candy.cpp (大小: 899 字节, MD5: f3d50d35c542b291dd91dfd25a3aeee2)
+    目录: ./answers\TJ-0101\sale
+        文件: sale.cpp (大小: 526 字节, MD5: 4d02c692d0c22c887542abb64d28370d)
+目录: ./answers\TJ-0103
+    目录: ./answers\TJ-0103\candy
+        文件: candy.cpp (大小: 1462 字节, MD5: 5d2faa4710ebab248e06f86e192debbe)
+    目录: ./answers\TJ-0103\query
+        文件: query.cpp (大小: 350 字节, MD5: d9a64ba510f9d1afd92f5f87328b0c6e)
+    目录: ./answers\TJ-0103\sale
+        文件: sale.cpp (大小: 3986 字节, MD5: 4ac04f464de8090410f6fa0de528484e)
+    目录: ./answers\TJ-0103\tree
+        文件: tree.cpp (大小: 347 字节, MD5: c96833b295bd5feee7c02aa8a771e331)
+目录: ./answers\TJ-0104
+    目录: ./answers\TJ-0104\candy
+        文件: candy.cpp (大小: 1013 字节, MD5: ab1a00a212152e6575796998d2652452)
+    目录: ./answers\TJ-0104\query
+        文件: query.cpp (大小: 2265 字节, MD5: 7e65105823a0e9e9ec25580c67018063)
+    目录: ./answers\TJ-0104\sale
+        文件: sale.cpp (大小: 1921 字节, MD5: 6400fecb70acec7b4aaf9f5f8ef26dbd)
+    目录: ./answers\TJ-0104\tree
+        文件: tree.cpp (大小: 1413 字节, MD5: a848958d3a242caf092587507c383e87)
+目录: ./answers\TJ-0105
+    目录: ./answers\TJ-0105\candy
+        文件: candy.cpp (大小: 825 字节, MD5: 2f3f993e130a84dd3f91b3ab87747771)
+    目录: ./answers\TJ-0105\query
+        文件: query.cpp (大小: 343 字节, MD5: d6bc2fc92b277416eb280aee42c8f540)
+    目录: ./answers\TJ-0105\sale
+        文件: sale.cpp (大小: 575 字节, MD5: ce5e919af390a9d975bb3c5026169068)
+    目录: ./answers\TJ-0105\tree
+        文件: tree.cpp (大小: 633 字节, MD5: 35da916316b9129f67ee9998ea47a48b)
+目录: ./answers\TJ-0106
+    目录: ./answers\TJ-0106\candy
+        文件: candy.cpp (大小: 1310 字节, MD5: ebce731c6d247a09538d7c3c826738c6)
+        文件: candy.exe (大小: 1945186 字节, MD5: 1e2de39dab11a65d895ddb6887c15f4d)
+    目录: ./answers\TJ-0106\query
+        文件: query.cpp (大小: 151 字节, MD5: 97a3227aee30ecdde5cf5d8e0726f7c2)
+    目录: ./answers\TJ-0106\sale
+        文件: sale.cpp (大小: 461 字节, MD5: b484c5b2ba26523efd7e5f9e31c8a821)
+        文件: sale.exe (大小: 1921806 字节, MD5: 826d23b32669050d145fd8773b7f8edf)
+    目录: ./answers\TJ-0106\tree
+        文件: tree.cpp (大小: 1302 字节, MD5: 4d5376693218e52076f88ac51bba2d18)
+        文件: tree.exe (大小: 1978394 字节, MD5: 6105e7612ae62693a82428f628e5b6b4)
+目录: ./answers\TJ-0107
+    目录: ./answers\TJ-0107\candy
+        文件: candy.cpp (大小: 1683 字节, MD5: 94f6487526f80b6b89614722c9550665)
+        文件: candy.exe (大小: 1945849 字节, MD5: af2597ea49351a1b701ec2410a9eb6dd)
+        文件: candy.in (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0107\query
+        文件: query.cpp (大小: 164 字节, MD5: cc2cb2404a68d291fcc78d40377eac88)
+        文件: query.in (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0107\sale
+        文件: sale.cpp (大小: 308 字节, MD5: 71ae2de5da68c290a25f937768744005)
+        文件: sale.exe (大小: 1964166 字节, MD5: 721a764c95e90c9d8304df03cc7e99f9)
+        文件: sale.in (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: sale.out (大小: 2 字节, MD5: 6bb61e3b7bce0931da574d19d1d82c88)
+    目录: ./answers\TJ-0107\tree
+        文件: tree.cpp (大小: 244 字节, MD5: 5eed040fce02fab91bab3a23d0251fdf)
+        文件: tree.exe (大小: 1921806 字节, MD5: c7a62d5736046906467c3800a2185bd8)
+        文件: tree.in (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: tree.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+目录: ./answers\TJ-0108
+    目录: ./answers\TJ-0108\candy
+        文件: candy.cpp (大小: 1131 字节, MD5: 86357d6b43acb01ad5e36e61176fac2f)
+    目录: ./answers\TJ-0108\query
+        文件: query.cpp (大小: 1705 字节, MD5: 83867335f7a4c99fd57205454669a93d)
+    目录: ./answers\TJ-0108\sale
+        文件: sale.cpp (大小: 3456 字节, MD5: ce35c5a9f62df94eb0ab8ccfdef209ea)
+    目录: ./answers\TJ-0108\tree
+        文件: tree.cpp (大小: 1728 字节, MD5: cb2f044ea3642f1074c4e1e12a9cea26)
+目录: ./answers\TJ-0109
+    目录: ./answers\TJ-0109\candy
+        文件: candy.cpp (大小: 706 字节, MD5: d0aea7eb6fb51b7719ee3f97f11bc841)
+    目录: ./answers\TJ-0109\query
+        文件: query.cpp (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0109\sale
+        文件: sale.cpp (大小: 1592 字节, MD5: 48cf9c7e8fd12bcf25202358d250e62b)
+    目录: ./answers\TJ-0109\tree
+        文件: tree.cpp (大小: 1818 字节, MD5: b4cb9c950a8e45095a18ba0c2882f339)
+目录: ./answers\TJ-0110
+    目录: ./answers\TJ-0110\candy
+        文件: candy.cpp (大小: 1455 字节, MD5: fa267a61d5b13d34de289c3f496cf1af)
+    目录: ./answers\TJ-0110\query
+        文件: query.cpp (大小: 224 字节, MD5: d53c7e85a91b2db6bff88766e8c12cb2)
+    目录: ./answers\TJ-0110\sale
+        文件: sale.cpp (大小: 2940 字节, MD5: 04b545b44ed97a917dbfc732a96cef09)
+    目录: ./answers\TJ-0110\tree
+        文件: tree.cpp (大小: 1034 字节, MD5: fffc7f5ccc9661132f1cbc315161b8ce)
+目录: ./answers\TJ-0111
+    目录: ./answers\TJ-0111\candy
+        文件: candy.cpp (大小: 546 字节, MD5: 8c14dafb3ef9e6beee8896a52c0d1604)
+    目录: ./answers\TJ-0111\query
+        文件: query.cpp (大小: 1077 字节, MD5: e566bfedcf2927e91e468e1f79fdf7cb)
+    目录: ./answers\TJ-0111\sale
+        文件: sale.cpp (大小: 1254 字节, MD5: 0949ce8d10a7e8a09101a4d1c419db23)
+    目录: ./answers\TJ-0111\tree
+        文件: tree.cpp (大小: 883 字节, MD5: b72ed07003169279fbb2ec453ef838c6)
+目录: ./answers\TJ-0112
+    目录: ./answers\TJ-0112\candy
+        文件: candy.cpp (大小: 535 字节, MD5: 7c9ae6f78fd5789ee971e7d526070273)
+        文件: candy.exe (大小: 1939865 字节, MD5: 38c758b7a71871aa0a1e52537ce9bdaf)
+    目录: ./answers\TJ-0112\query
+        文件: query.cpp (大小: 215 字节, MD5: 84fc9cfd45634f53f095c955cec20e39)
+        文件: query.exe (大小: 1921646 字节, MD5: 9570de01d38d066e7874930180cdef9d)
+    目录: ./answers\TJ-0112\sale
+        文件: sale.cpp (大小: 1580 字节, MD5: 3784d510bd0e7cfa9d46bb60198dfdb6)
+        文件: sale.exe (大小: 1958627 字节, MD5: 1623b384b501f16a037e0686380d97fe)
+    目录: ./answers\TJ-0112\tree
+        文件: tree.cpp (大小: 2290 字节, MD5: c5b04d8d8c9b041ac9681244b1833b46)
+        文件: tree.exe (大小: 1926458 字节, MD5: 62d11e6cd2d770ac3cd7f599ef2501c3)
+目录: ./answers\TJ-0113
+    目录: ./answers\TJ-0113\candy
+        文件: candy.cpp (大小: 665 字节, MD5: 28b7d23cfff8337c0fd65b351eb4efe3)
+    目录: ./answers\TJ-0113\query
+        文件: query.cpp (大小: 894 字节, MD5: 766ae2d75823431fcfe52e4576bf4048)
+    目录: ./answers\TJ-0113\sale
+        文件: sale.cpp (大小: 1567 字节, MD5: 4cad622f23d1a8795ed5469e1c812ab0)
+    目录: ./answers\TJ-0113\tree
+        文件: tree.cpp (大小: 1246 字节, MD5: 351f6a44123ab1edb9a68cae583db485)
+目录: ./answers\TJ-0114
+    目录: ./answers\TJ-0114\candy
+        文件: candy.cpp (大小: 806 字节, MD5: 2599ceb1959cd06e25d4d22d6a3151bc)
+    目录: ./answers\TJ-0114\query
+        文件: query.cpp (大小: 1664 字节, MD5: a829241ebdb23ca18cebbf561825c35d)
+    目录: ./answers\TJ-0114\sale
+        文件: sale.cpp (大小: 2187 字节, MD5: 00b86a50ee811e342c1635d8f1ffc100)
+    目录: ./answers\TJ-0114\tree
+        文件: tree.cpp (大小: 1001 字节, MD5: 97d977b8bc174eaecbc30dccbd50611e)
+目录: ./answers\TJ-0115
+    目录: ./answers\TJ-0115\candy
+        文件: candy.cpp (大小: 970 字节, MD5: 3e43a3c375cbf5e329d616d6bd54e3f9)
+    目录: ./answers\TJ-0115\query
+        文件: query.cpp (大小: 1138 字节, MD5: 14fd386c074d2942ed4e10f11593d9e5)
+    目录: ./answers\TJ-0115\sale
+        文件: sale.cpp (大小: 2177 字节, MD5: ebeb7ea4d8ded8f04f87acf900e84be8)
+    目录: ./answers\TJ-0115\tree
+        文件: tree.cpp (大小: 1063 字节, MD5: bd88610dd5b26ffd09ba67cf876535ca)
+目录: ./answers\TJ-0116
+    目录: ./answers\TJ-0116\candy
+        文件: candy.cpp (大小: 1919 字节, MD5: b7f2434ad131e48291b92ac1b1b539e2)
+    目录: ./answers\TJ-0116\query
+        文件: query.cpp (大小: 2427 字节, MD5: fb62a5ec35306be863aa0af82cea2254)
+    目录: ./answers\TJ-0116\sale
+        文件: sale.cpp (大小: 1725 字节, MD5: b07fc234fdd7277cfc512336e12d676a)
+    目录: ./answers\TJ-0116\tree
+        文件: tree.cpp (大小: 2621 字节, MD5: abea7879a4d7a2e0c5dbb27a27374e01)
+目录: ./answers\TJ-0117
+    目录: ./answers\TJ-0117\candy
+        文件: candy.cpp (大小: 572 字节, MD5: 6ccae509a66655411b165a6757988644)
+    目录: ./answers\TJ-0117\sale
+        文件: sale.cpp (大小: 1971 字节, MD5: 1ebb7f3a4a4b503398eadcd905fec2a2)
+    目录: ./answers\TJ-0117\tree
+        文件: tree.cpp (大小: 1534 字节, MD5: 27b72d59a5bfde1e146eed874fbd100e)
+目录: ./answers\TJ-0118
+    目录: ./answers\TJ-0118\candy
+        文件: candy.cpp (大小: 990 字节, MD5: 0e352fcef5d97d87cb5c932b90ffff3f)
+    目录: ./answers\TJ-0118\sale
+        文件: sale.cpp (大小: 2952 字节, MD5: b678b39ae6d759c590980486f03aab21)
+    目录: ./answers\TJ-0118\tree
+        文件: tree.cpp (大小: 1019 字节, MD5: 13e9356bdd857de240797af441665cd5)
+目录: ./answers\TJ-0119
+    目录: ./answers\TJ-0119\candy
+        文件: candy.cpp (大小: 551 字节, MD5: 8a048aab1157f6107b894b718675e280)
+    目录: ./answers\TJ-0119\sale
+        文件: sale.cpp (大小: 278 字节, MD5: f48d711dffc54a8a6096ae189a7e765c)
+    目录: ./answers\TJ-0119\tree
+        文件: tree.cpp (大小: 1388 字节, MD5: 26e2aa67d989c2a82a08cd7108c79526)
+目录: ./answers\TJ-0120
+    目录: ./answers\TJ-0120\candy
+        文件: candy.cpp (大小: 1393 字节, MD5: a33097357b9eb883ccd687d3680647b5)
+    目录: ./answers\TJ-0120\sale
+        文件: sale (大小: 67936 字节, MD5: 7d3738c1e59a9266662463d08808ef5e)
+        文件: sale.cpp (大小: 1793 字节, MD5: 05099b64dec5a2657bef417927fe79fd)
+        文件: sale.o (大小: 127952 字节, MD5: 6b5790f73a35f3b6c1d594cf962b0eb5)
+        文件: sale.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+    目录: ./answers\TJ-0120\tree
+        文件: tree (大小: 34568 字节, MD5: 4f097dfb862ad0aaa558ba22f87f640a)
+        文件: tree.cpp (大小: 490 字节, MD5: e3db4d7f642fe0c24f19fe9cab902c2d)
+        文件: tree.o (大小: 43824 字节, MD5: aacf4f92faf493cb301c5f7411e72f9b)
+        文件: tree.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+目录: ./answers\TJ-0121
+    目录: ./answers\TJ-0121\candy
+        文件: candy.cpp (大小: 650 字节, MD5: 83efa56b97f9a4d8211274e32d3c142d)
+    目录: ./answers\TJ-0121\query
+        文件: query.cpp (大小: 327 字节, MD5: 82a86326d28cc82133e47e8af016fe38)
+    目录: ./answers\TJ-0121\sale
+        文件: sale.cpp (大小: 446 字节, MD5: cbeef7bb155e24fd3a7bdbb83934cd2c)
+    目录: ./answers\TJ-0121\tree
+        文件: tree.cpp (大小: 865 字节, MD5: 54ebb35ff74de4c4b41c60b848172875)
+目录: ./answers\TJ-0122
+    目录: ./answers\TJ-0122\candy
+        文件: candy.cpp (大小: 810 字节, MD5: b989ee8f29151111e6bc89616503a36a)
+        文件: candy.exe (大小: 2045766 字节, MD5: e167549f1d2699dea7b156b67b85223c)
+        文件: candy.in (大小: 23 字节, MD5: bb3364ea8a41985ca12bf3319a5b354c)
+        文件: candy.out (大小: 1 字节, MD5: c81e728d9d4c2f636f067f89cc14862c)
+        文件: candy1.ans (大小: 2 字节, MD5: 48a24b70a0b376535542b996af517398)
+        文件: candy1.in (大小: 13 字节, MD5: d172161f9b02b40775e04ecefc192ef0)
+        文件: candy2.ans (大小: 2 字节, MD5: c30f7472766d25af1dc80b3ffc9a58c7)
+        文件: candy2.in (大小: 17 字节, MD5: 8d414fdac6b47bbca322f77629b28f1f)
+        文件: candy3.ans (大小: 3 字节, MD5: 4fbafd6948b6529caa2b78e476359875)
+        文件: candy3.in (大小: 592 字节, MD5: e797587a6a703bd133187835d5dc81c9)
+        文件: candy4.ans (大小: 3 字节, MD5: 5b6b41ed9b343fed9cd05a66d36650f0)
+        文件: candy4.in (大小: 588 字节, MD5: 0e65ff338c72c021f95bcdbcb462abd0)
+        文件: candy5.ans (大小: 3 字节, MD5: 90e2a51705594d033a3abe9d77b2b7ad)
+        文件: candy5.in (大小: 9798 字节, MD5: 1a6be53723c813cf60ea61f976e4b333)
+        文件: candy6.ans (大小: 3 字节, MD5: 60f3db995d0676b576372c0ee45b7ac0)
+        文件: candy6.in (大小: 9777 字节, MD5: 124e92de53a7d5b152bad98988299fe7)
+        文件: candy7.ans (大小: 5 字节, MD5: 7b2ffdd9b1fe7a7e59153e3eeefb0cfa)
+        文件: candy7.in (大小: 1978006 字节, MD5: 323f97b94b03256e70c9882f18267281)
+    目录: ./answers\TJ-0122\query
+        文件: query.cpp (大小: 647 字节, MD5: 78baebc242c0cd857310f05b5e3799dd)
+        文件: query.exe (大小: 2000099 字节, MD5: 5d6ee616c73c34c5e8e618ca00918fee)
+        文件: query.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: query1.ans (大小: 25 字节, MD5: dc5601099b07416892e13898267d0638)
+        文件: query1.in (大小: 25 字节, MD5: 1d3b17636f23a2cbf32150577b00258c)
+        文件: query2.ans (大小: 630 字节, MD5: 5ad30df6c06c79508d2b032e2c0eed89)
+        文件: query2.in (大小: 13234 字节, MD5: c49a8c4c0a632f1d1b7ea651c1c1fa27)
+        文件: query3.ans (大小: 1897 字节, MD5: 679fe0695759ffc638f463e9951c0687)
+        文件: query3.in (大小: 64755 字节, MD5: c0478674fd4490c27b63558543f11074)
+        文件: query4.ans (大小: 15958 字节, MD5: 8a164707914899d2780f2d6a6e713493)
+        文件: query4.in (大小: 329858 字节, MD5: 52cc67829bde204535aa9361f4154225)
+        文件: query5.ans (大小: 8743 字节, MD5: 4bcf154b32a3b41fd8e4aa7a9dfec6fd)
+        文件: query5.in (大小: 321929 字节, MD5: bf6eb0342eed0bb3214da20973c15c1f)
+        文件: query6.ans (大小: 6656 字节, MD5: a865acfd26cbdb6e9af335f333201f14)
+        文件: query6.in (大小: 323800 字节, MD5: 771a7b564fc74c4257f09a02dbcf3c4f)
+        文件: query7.ans (大小: 13336 字节, MD5: 1d5ec41fa57aab7e8f6f819f72b5efc1)
+        文件: query7.in (大小: 331792 字节, MD5: c400297f2f51411d233fd313c7a9745a)
+        文件: query8.ans (大小: 15627 字节, MD5: 1b5235afcf238f5c25a6080f0be8222d)
+        文件: query8.in (大小: 325965 字节, MD5: 59a8928be1029170e38fece648c6f517)
+    目录: ./answers\TJ-0122\sale
+        文件: sale (大小: 34208 字节, MD5: 2614ce3904586612e0eff751a49f3a18)
+        文件: sale.cpp (大小: 1564 字节, MD5: efd2f10879be163ad3d766628d7e3f64)
+        文件: sale.exe (大小: 2034114 字节, MD5: 3b04be49c0f514f665268e8d20849426)
+        文件: sale.h (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: sale.o (大小: 47160 字节, MD5: dffcfa97c4420c3ad24b90e8b8126284)
+        文件: sale.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: sale1.ans (大小: 2 字节, MD5: 9ae0ea9e3c9c6e1b9b6252c8395efdc1)
+        文件: sale1.in (大小: 14 字节, MD5: 11fba08df93afc1d4d109b71bdb84b31)
+        文件: sale10.ans (大小: 1294 字节, MD5: 7d126fa3d7766736ede9a9b3f5bffd4f)
+        文件: sale10.in (大小: 100192 字节, MD5: d63c097d37e8d7ee4ebf46776f61eaae)
+        文件: sale11.ans (大小: 2047 字节, MD5: cde22352c62e126a4df7b8ad75d75daa)
+        文件: sale11.in (大小: 498186 字节, MD5: f25b9ea1bd1b2ee9d2e19847e758dc3a)
+        文件: sale2.ans (大小: 3000 字节, MD5: 28ad2c962e3cebe063d22d2804db2925)
+        文件: sale2.in (大小: 53473 字节, MD5: 71b11ac0a16057a0aa5d519d20348744)
+        文件: sale3.ans (大小: 2169 字节, MD5: 8eeb59822dced7da521ce22435660a53)
+        文件: sale3.in (大小: 52523 字节, MD5: 23175b73a0d68ed85b4177a10b95006f)
+        文件: sale4.ans (大小: 893 字节, MD5: 064f14cc22477018437529bac643cc34)
+        文件: sale4.in (大小: 50266 字节, MD5: c5796f8c0fc756cd1787023b66a010de)
+        文件: sale5.ans (大小: 831 字节, MD5: 336862afa643d78e4aa795c9d98f324e)
+        文件: sale5.in (大小: 50667 字节, MD5: 96241479985bf3581ed68bd7947cdf72)
+        文件: sale6.ans (大小: 837 字节, MD5: 81d7921fe203e5c389c282ff6784dee7)
+        文件: sale6.in (大小: 50366 字节, MD5: c91aa61e58597ae461584b850a6625ca)
+        文件: sale7.ans (大小: 1290 字节, MD5: b253a360cbab60c41b310f0686c6f485)
+        文件: sale7.in (大小: 100102 字节, MD5: b4b483af46c6dc18877aef8bdb6477e3)
+        文件: sale8.ans (大小: 1295 字节, MD5: e9e5c87d44461ee984d78b654523ac5c)
+        文件: sale8.in (大小: 99594 字节, MD5: ef879ebce23c3c5b45d8c26a126a1280)
+        文件: sale9.ans (大小: 1287 字节, MD5: b925f23b08a7764ed46d439f4e9330c6)
+        文件: sale9.in (大小: 100784 字节, MD5: fe7cb95a375d4e39fdcd4d70810eaf6b)
+    目录: ./answers\TJ-0122\tree
+        文件: tree.cpp (大小: 2356 字节, MD5: 0807aafb65abe9c5eab80315518c8653)
+        文件: tree.exe (大小: 2031053 字节, MD5: 96daf48a5f217e41fd80114b7dba569e)
+        文件: tree.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: tree1.ans (大小: 5 字节, MD5: fa10546ac4464ddc33844e0ba294c1ac)
+        文件: tree1.in (大小: 30 字节, MD5: 88f1e7ac5d9b784b7d3f53932830b238)
+        文件: tree2.ans (大小: 15 字节, MD5: 777af47c6673efad3fc92e0909c3db44)
+        文件: tree2.in (大小: 158 字节, MD5: d6728106f55142eaefac99bd57da1344)
+        文件: tree3.ans (大小: 20 字节, MD5: bc94d3e5b42e870f75d019093683ea5b)
+        文件: tree3.in (大小: 542 字节, MD5: 8dc19578b0bccd41261037d9c1b9fda4)
+        文件: tree4.ans (大小: 25 字节, MD5: ade17fc1a28f3c82537e1b6feae05904)
+        文件: tree4.in (大小: 72574 字节, MD5: 4d2f848d61743e3c6b2801cbd2b7d272)
+        文件: tree5.ans (大小: 30 字节, MD5: b27dcdc6ce433e6a75ee4068ba1244ba)
+        文件: tree5.in (大小: 93840 字节, MD5: e36833fbc5ce6deb927a87a77e61c6c7)
+目录: ./answers\TJ-0123
+    目录: ./answers\TJ-0123\candy
+        文件: candy.cpp (大小: 1071 字节, MD5: f6c2ce8ff15263a98fd52deae9c7a9ae)
+    目录: ./answers\TJ-0123\query
+        文件: query.cpp (大小: 713 字节, MD5: 9144b9ab9fd5b6480fc0c1606be6c157)
+    目录: ./answers\TJ-0123\sale
+        文件: sale.cpp (大小: 2289 字节, MD5: 94da0383ba745a6ba3ebfd99cc515600)
+    目录 (无文件): ./answers\TJ-0123\tree
+目录: ./answers\TJ-0124
+    目录: ./answers\TJ-0124\candy
+        文件: candy.cpp (大小: 662 字节, MD5: 8cc75fba3da77d75588748716adcb58a)
+    目录: ./answers\TJ-0124\query
+        文件: query.cpp (大小: 603 字节, MD5: 9c1d6c715ec7b1620c529b6dc45bedd1)
+    目录: ./answers\TJ-0124\sale
+        文件: sale.cpp (大小: 1961 字节, MD5: a903e7aa0d6265c9c8c3a05473565424)
+    目录: ./answers\TJ-0124\tree
+        文件: tree.cpp (大小: 1173 字节, MD5: 11381174475fd4042c502dad5fcfc2c6)
+目录: ./answers\TJ-0125
+    目录: ./answers\TJ-0125\candy
+        文件: 1.out (大小: 4 字节, MD5: 806beafe154032a5b818e97b4420ad98)
+        文件: candy.cpp (大小: 1127 字节, MD5: 03b1bf05ebcb26d0a2a2edfe11654875)
+        文件: candy.exe (大小: 1944898 字节, MD5: 0514bcc2edc8261a9d328346069fab8b)
+        文件: candy.out (大小: 2 字节, MD5: fe9fc289c3ff0af142b6d3bead98a923)
+        文件: candy1.ans (大小: 2 字节, MD5: 48a24b70a0b376535542b996af517398)
+        文件: candy1.in (大小: 13 字节, MD5: d172161f9b02b40775e04ecefc192ef0)
+        文件: candy2.ans (大小: 2 字节, MD5: c30f7472766d25af1dc80b3ffc9a58c7)
+        文件: candy2.in (大小: 17 字节, MD5: 8d414fdac6b47bbca322f77629b28f1f)
+        文件: candy3.ans (大小: 3 字节, MD5: 4fbafd6948b6529caa2b78e476359875)
+        文件: candy3.in (大小: 592 字节, MD5: e797587a6a703bd133187835d5dc81c9)
+        文件: candy4.ans (大小: 3 字节, MD5: 5b6b41ed9b343fed9cd05a66d36650f0)
+        文件: candy4.in (大小: 588 字节, MD5: 0e65ff338c72c021f95bcdbcb462abd0)
+        文件: candy5.ans (大小: 3 字节, MD5: 90e2a51705594d033a3abe9d77b2b7ad)
+        文件: candy5.in (大小: 9798 字节, MD5: 1a6be53723c813cf60ea61f976e4b333)
+        文件: candy6.ans (大小: 3 字节, MD5: 60f3db995d0676b576372c0ee45b7ac0)
+        文件: candy6.in (大小: 9777 字节, MD5: 124e92de53a7d5b152bad98988299fe7)
+        文件: candy7.ans (大小: 5 字节, MD5: 7b2ffdd9b1fe7a7e59153e3eeefb0cfa)
+        文件: candy7.in (大小: 1978006 字节, MD5: 323f97b94b03256e70c9882f18267281)
+    目录: ./answers\TJ-0125\query
+        文件: query.cpp (大小: 456 字节, MD5: 420cc8f79a0cd9d322de0ce72ffff0db)
+        文件: query.exe (大小: 1921154 字节, MD5: f512837875fd0a11eba9e44d3cf14f67)
+        文件: query1.ans (大小: 25 字节, MD5: dc5601099b07416892e13898267d0638)
+        文件: query1.in (大小: 25 字节, MD5: 1d3b17636f23a2cbf32150577b00258c)
+        文件: query2.ans (大小: 630 字节, MD5: 5ad30df6c06c79508d2b032e2c0eed89)
+        文件: query2.in (大小: 13234 字节, MD5: c49a8c4c0a632f1d1b7ea651c1c1fa27)
+        文件: query3.ans (大小: 1897 字节, MD5: 679fe0695759ffc638f463e9951c0687)
+        文件: query3.in (大小: 64755 字节, MD5: c0478674fd4490c27b63558543f11074)
+        文件: query4.ans (大小: 15958 字节, MD5: 8a164707914899d2780f2d6a6e713493)
+        文件: query4.in (大小: 329858 字节, MD5: 52cc67829bde204535aa9361f4154225)
+        文件: query5.ans (大小: 8743 字节, MD5: 4bcf154b32a3b41fd8e4aa7a9dfec6fd)
+        文件: query5.in (大小: 321929 字节, MD5: bf6eb0342eed0bb3214da20973c15c1f)
+        文件: query6.ans (大小: 6656 字节, MD5: a865acfd26cbdb6e9af335f333201f14)
+        文件: query6.in (大小: 323800 字节, MD5: 771a7b564fc74c4257f09a02dbcf3c4f)
+        文件: query7.ans (大小: 13336 字节, MD5: 1d5ec41fa57aab7e8f6f819f72b5efc1)
+        文件: query7.in (大小: 331792 字节, MD5: c400297f2f51411d233fd313c7a9745a)
+        文件: query8.ans (大小: 15627 字节, MD5: 1b5235afcf238f5c25a6080f0be8222d)
+        文件: query8.in (大小: 325965 字节, MD5: 59a8928be1029170e38fece648c6f517)
+    目录: ./answers\TJ-0125\sale
+        文件: sale.cpp (大小: 996 字节, MD5: 5ded746004535b2fd6d6aecc3af3eaf9)
+        文件: sale.exe (大小: 1941106 字节, MD5: a36ec400a87d40c3aa637ac1ff78038c)
+        文件: sale1.ans (大小: 2 字节, MD5: 9ae0ea9e3c9c6e1b9b6252c8395efdc1)
+        文件: sale1.in (大小: 14 字节, MD5: 11fba08df93afc1d4d109b71bdb84b31)
+        文件: sale10.ans (大小: 1294 字节, MD5: 7d126fa3d7766736ede9a9b3f5bffd4f)
+        文件: sale10.in (大小: 100192 字节, MD5: d63c097d37e8d7ee4ebf46776f61eaae)
+        文件: sale11.ans (大小: 2047 字节, MD5: cde22352c62e126a4df7b8ad75d75daa)
+        文件: sale11.in (大小: 498186 字节, MD5: f25b9ea1bd1b2ee9d2e19847e758dc3a)
+        文件: sale2.ans (大小: 3000 字节, MD5: 28ad2c962e3cebe063d22d2804db2925)
+        文件: sale2.in (大小: 53473 字节, MD5: 71b11ac0a16057a0aa5d519d20348744)
+        文件: sale3.ans (大小: 2169 字节, MD5: 8eeb59822dced7da521ce22435660a53)
+        文件: sale3.in (大小: 52523 字节, MD5: 23175b73a0d68ed85b4177a10b95006f)
+        文件: sale4.ans (大小: 893 字节, MD5: 064f14cc22477018437529bac643cc34)
+        文件: sale4.in (大小: 50266 字节, MD5: c5796f8c0fc756cd1787023b66a010de)
+        文件: sale5.ans (大小: 831 字节, MD5: 336862afa643d78e4aa795c9d98f324e)
+        文件: sale5.in (大小: 50667 字节, MD5: 96241479985bf3581ed68bd7947cdf72)
+        文件: sale6.ans (大小: 837 字节, MD5: 81d7921fe203e5c389c282ff6784dee7)
+        文件: sale6.in (大小: 50366 字节, MD5: c91aa61e58597ae461584b850a6625ca)
+        文件: sale7.ans (大小: 1290 字节, MD5: b253a360cbab60c41b310f0686c6f485)
+        文件: sale7.in (大小: 100102 字节, MD5: b4b483af46c6dc18877aef8bdb6477e3)
+        文件: sale8.ans (大小: 1295 字节, MD5: e9e5c87d44461ee984d78b654523ac5c)
+        文件: sale8.in (大小: 99594 字节, MD5: ef879ebce23c3c5b45d8c26a126a1280)
+        文件: sale9.ans (大小: 1287 字节, MD5: b925f23b08a7764ed46d439f4e9330c6)
+        文件: sale9.in (大小: 100784 字节, MD5: fe7cb95a375d4e39fdcd4d70810eaf6b)
+    目录: ./answers\TJ-0125\tree
+        文件: tree.cpp (大小: 1241 字节, MD5: 1fd523e7df8d65c0cf6e3f7d2e2c5514)
+        文件: tree.exe (大小: 1948714 字节, MD5: fe09a4e37c2fed99cf406679f5d04d32)
+        文件: tree.out (大小: 0 字节, MD5: d41d8cd98f00b204e9800998ecf8427e)
+        文件: tree1.ans (大小: 5 字节, MD5: fa10546ac4464ddc33844e0ba294c1ac)
+        文件: tree1.in (大小: 30 字节, MD5: 88f1e7ac5d9b784b7d3f53932830b238)
+        文件: tree2.ans (大小: 15 字节, MD5: 777af47c6673efad3fc92e0909c3db44)
+        文件: tree2.in (大小: 158 字节, MD5: d6728106f55142eaefac99bd57da1344)
+        文件: tree3.ans (大小: 20 字节, MD5: bc94d3e5b42e870f75d019093683ea5b)
+        文件: tree3.in (大小: 542 字节, MD5: 8dc19578b0bccd41261037d9c1b9fda4)
+        文件: tree4.ans (大小: 25 字节, MD5: ade17fc1a28f3c82537e1b6feae05904)
+        文件: tree4.in (大小: 72574 字节, MD5: 4d2f848d61743e3c6b2801cbd2b7d272)
+        文件: tree5.ans (大小: 30 字节, MD5: b27dcdc6ce433e6a75ee4068ba1244ba)
+        文件: tree5.in (大小: 93840 字节, MD5: e36833fbc5ce6deb927a87a77e61c6c7)
+目录: ./answers\TJ-0126
+    目录: ./answers\TJ-0126\candy
+        文件: candy.cpp (大小: 556 字节, MD5: 245494a895ac4e815df59ab174c86e54)
+    目录: ./answers\TJ-0126\sale
+        文件: sale.cpp (大小: 763 字节, MD5: 62dc514137800ea2e4c687f09d541e41)
+    目录: ./answers\TJ-0126\tree
+        文件: tree.cpp (大小: 1029 字节, MD5: 41ea3060a5963e1e8965481f58cc2440)
+目录: ./answers\TJ-0127
+    目录: ./answers\TJ-0127\candy
+        文件: candy.cpp (大小: 1293 字节, MD5: deb4dea26ac3db871f2059fda50fe46b)
+    目录: ./answers\TJ-0127\query
+        文件: query.cpp (大小: 807 字节, MD5: 1b59ddc65e0cb99adeef2a3c9190f4ac)
+    目录: ./answers\TJ-0127\sale
+        文件: sale.cpp (大小: 1540 字节, MD5: aa031fcfa1c3ea540f0913254b7ec6ec)
+    目录: ./answers\TJ-0127\tree
+        文件: tree.cpp (大小: 1904 字节, MD5: 84f1a91be95b8bef723437c64cbdcadd)

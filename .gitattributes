@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# 测试数据保持原始字节，不做换行转换
+*.in  -text
+*.ans -text
+*.out  -text

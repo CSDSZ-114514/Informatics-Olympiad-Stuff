@@ -1,0 +1,68 @@
+# ============================================================
+#  OI 仓库 .gitignore
+#  原则：只提交 源码 + 题解 + 小规模数据
+#        不提交 编辑器配置 / 编译产物 / 大文件
+# ============================================================
+
+# ---------- 编辑器与 IDE 配置 ----------
+.cph/
+.vscode/
+.vs/
+
+# ---------- 编译产物 ----------
+*.exe
+*.o
+*.obj
+*.pdb
+*.idb
+*.ipch
+*.tlog
+*.lastbuildstate
+*.opendb
+*.suo
+*.user
+*.vcxproj
+*.vcxproj.*
+*.filters
+*.sln
+unsuccessfulbuild
+
+# ---------- 编辑器自动备份 ----------
+*.cpp#
+*.bak
+
+# ---------- 大文件（GitHub 单文件上限 100MB；iso 3.4G / AppImage 132M / zip 138M）----------
+*.iso
+*.AppImage
+*.zip
+
+# ---------- 系统临时文件 ----------
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+
+# ---------- 无扩展名的 ELF 编译产物（逐个精确排除）----------
+/JiaoHu/P17140/segment/segment
+/kaoshi/P17140/segment/segment
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0004/candy/candy
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0004/sale/sale
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0004/tree/tree
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0007/candy/candy
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0007/query/query
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0007/sale/fcs
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0007/sale/sale
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0013/candy/candy
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0013/candy/T1
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0019/candy/candy
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0019/candy/rand
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0019/tree/tree
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0045/candy/candy
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0045/query/query
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0045/sale/sale
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0045/sale/salel
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0045/sale/salele
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0045/tree/tree
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0120/sale/sale
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0120/tree/tree
+/程序公示/2025NOIP联赛天津赛区程序公示/answers/answers/TJ-0122/sale/sale

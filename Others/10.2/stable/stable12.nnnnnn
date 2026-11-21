@@ -1,0 +1,52 @@
+#include<bits/stdc++.h>
+using namespace std;
+long long n,s[10005];
+// bool exist[1000005];
+// void findyin(long long a){
+//     if(exist[a])return;
+//     for(int i=1;i<=sqrt(a)+1;i++){
+//         if(a%i==0){
+//             exist[i]=1;
+//             exist[a/i]=1;
+//         }
+//     }
+// }
+bool vis[1000005];
+
+int main(){
+    cin>>n;
+    long long maxsi=-1e9;
+    for(int i=1;i<=n;i++){
+        cin>>s[i];
+        maxsi=max(maxsi,s[i]);
+    }
+    for(int i=1;i<n;i++){
+        for(int j=i;j<=n;j++){
+            //findyin(abs(s[j]-s[i]));
+            vis[abs(s[j]-s[i])]=1;
+        }
+    }
+    for(int i=n;i<=1e6+5;i++){
+        if(!vis[i]){
+            long long tm=1;
+            for(int j=i;j<1e6+5;j+=i){
+                if(vis[j]){
+                    tm=0;
+                    break;
+                } 
+                if(tm){ 
+                    cout<<i; 
+                    return 0; 
+                } 
+            }
+        }
+    }
+    // for(int i=1;i<=maxsi;i++){
+    //     if(!exist[i]){
+    //         cout<<i;
+    //         //system("pause");
+    //         return 0;
+    //     }
+    // }
+    return 0;
+}
