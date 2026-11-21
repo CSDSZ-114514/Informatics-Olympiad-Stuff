@@ -10,7 +10,7 @@
 | `Competition/` | 比赛 |- |
 | `JiaoHu/` | 交互题 |-|
 | `kaoshi/` | 虚拟机交互文件夹 |-|
-| `Luogu-common/` | 洛谷常见题练习 |-|
+| `Luogu-common/` | 洛谷练习 |-|
 | `Moudle/` | 算法模块与模板|-|
 | `Others/` | 其他练习 |-|
 | `StudyNew/` | 新学算法专题|-|
